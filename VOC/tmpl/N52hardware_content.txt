@@ -1,0 +1,1 @@
+<tmpl path=""><node path="div@@newsview clearfix@2/div@@pt1160 clearfix@0/div@@newsview_left@1"><fld name="content" path="div@@bdc news_view_con@2" multi="" ext=""/><fld name="post_time" path="div@@news_name clearfix@0/div@@nn_left@0" multi="" ext=""/><fld name="title" path="h2@@article-title@0" multi="" ext=""/></node></tmpl>

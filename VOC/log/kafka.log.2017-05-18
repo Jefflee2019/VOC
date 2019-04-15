@@ -1,0 +1,58 @@
+[INFO ] 2017-05-18 17:02:16,598 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-18 17:02:16,613 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-18 17:02:16,613 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-18 17:02:17,715 - DomCFGField:106 : createTask: name :item_num
+[INFO ] 2017-05-18 17:02:17,716 - DomCFGField:106 : createTask: name :collect_cnt
+[INFO ] 2017-05-18 17:02:17,716 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-05-18 17:02:17,733 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-05-18 17:02:18,844 - ParseUtils:46 : url:http://item.yhd.com/item/68498737 tasks size 1
+[INFO ] 2017-05-18 17:02:18,890 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2017-05-18 17:02:18,894 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2017-05-18 17:02:18,894 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2017-05-18 17:02:18,911 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2017-05-18 17:02:18,911 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-18 17:02:18,912 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-18 17:02:18,912 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2017-05-18 17:02:18,969 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2017-05-18 17:02:42,855 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-18 17:02:42,861 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-18 17:02:42,862 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-18 17:02:42,958 - DomCFGField:106 : createTask: name :item_num
+[INFO ] 2017-05-18 17:02:42,959 - DomCFGField:106 : createTask: name :collect_cnt
+[INFO ] 2017-05-18 17:02:42,959 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-05-18 17:02:42,960 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-05-18 17:42:35,471 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-18 17:42:35,474 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-18 17:42:35,475 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-18 17:42:35,573 - DomCFGField:106 : createTask: name :commenter_name
+[INFO ] 2017-05-18 17:42:35,574 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-05-18 17:42:35,574 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-05-18 17:42:35,574 - DomCFGField:106 : createTask: name :good_cnt
+[INFO ] 2017-05-18 17:42:35,574 - DomCFGField:106 : createTask: name :general_cnt
+[INFO ] 2017-05-18 17:42:35,575 - DomCFGField:106 : createTask: name :poor_cnt
+[INFO ] 2017-05-18 17:42:35,575 - DomCFGField:106 : createTask: name :withpic_cnt
+[INFO ] 2017-05-18 17:42:35,575 - DomCFGField:106 : createTask: name :comment_cnt
+[INFO ] 2017-05-18 17:42:35,575 - DomCFGField:106 : createTask: name :good_rate
+[INFO ] 2017-05-18 18:37:53,952 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-18 18:37:53,956 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-18 18:37:53,957 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-18 18:37:54,083 - DomCFGField:106 : createTask: name :item_num
+[INFO ] 2017-05-18 18:37:54,084 - DomCFGField:106 : createTask: name :collect_cnt
+[INFO ] 2017-05-18 18:37:54,084 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-05-18 18:37:54,085 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-05-18 18:37:54,500 - ParseUtils:46 : url:http://item.yhd.com/item/68498737 tasks size 1
+[INFO ] 2017-05-18 18:37:54,503 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2017-05-18 18:37:54,503 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2017-05-18 18:37:54,504 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2017-05-18 18:37:54,511 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2017-05-18 18:37:54,511 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-18 18:37:54,512 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-18 18:37:54,512 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2017-05-18 18:37:54,549 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2017-05-18 18:38:13,493 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-18 18:38:13,498 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-18 18:38:13,498 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-18 18:38:13,584 - DomCFGField:106 : createTask: name :item_num
+[INFO ] 2017-05-18 18:38:13,584 - DomCFGField:106 : createTask: name :collect_cnt
+[INFO ] 2017-05-18 18:38:13,584 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-05-18 18:38:13,585 - DomCFGField:106 : createTask: name :cate

@@ -1,0 +1,9 @@
+[INFO ] 2019-02-21 14:54:39,783 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-02-21 14:54:39,789 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-02-21 14:54:39,790 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-02-21 14:54:40,102 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2019-02-21 14:54:40,104 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2019-02-21 14:54:40,105 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2019-02-21 14:54:40,106 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2019-02-21 14:54:40,937 - DomSearch:1312 : null Miss Match - 00 at level 5, nodePattern:[div@@col8 acol12 ccol9 right@2]
+[ERROR] 2019-02-21 14:54:40,939 - DomSearch:1312 : null Miss Match - 00 at level 6, nodePattern:[div@@productListingWidget@0]

@@ -1,0 +1,19 @@
+<tmpl path="">
+  <node path="div@@wrap clearfix@3/div@@col_a@0/div@productExperience@@0/div@@comment_mod@2">
+    <node path="div@@comment_con@2/div@@main@0">
+      <block path="div@@item good-comment@*" name="comments">
+        <fld name="commenter_name" path="div@@nameBox@1/span@@name@0" multi="" ext=""/>
+        <fld name="comment_content" path="dl@@@0/dd@@clearfix@0/span@@text@1/a@@btn@0" multi="" ext=""/>
+        <fld name="comment_time" path="dl@@@0/dd@@replyBtn_con clearfix@1" multi="" ext=""/>
+      </block>
+    </node>
+    <node path="div@@comment_type clearfix@1/ul@@@0">
+      <fld name="good_cnt" path="li@@@1/span@@@0" multi="" ext=""/>
+      <fld name="general_cnt" path="li@@@2/span@@@0" multi="" ext=""/>
+      <fld name="poor_cnt" path="li@@@3/span@@@0" multi="" ext=""/>
+      <fld name="withpic_cnt" path="li@@@4/span@@@0" multi="" ext=""/>
+      <fld name="comment_cnt" path="li@@cur@0/span@all-comment_num@@0" multi="" ext=""/>
+    </node>
+    <fld name="good_rate" path="div@div_peheader@mod_comment_content clearfix@0/div@@mod_comment_chart fl@0/div@@mod_circle@0/div@@text@0/p@@@0" multi="" ext=""/>
+  </node>
+</tmpl>

@@ -1,0 +1,45 @@
+[INFO ] 2017-05-19 15:09:11,178 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-19 15:09:11,184 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-19 15:09:11,184 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-19 15:09:11,395 - DomCFGField:106 : createTask: name :commenter_name
+[INFO ] 2017-05-19 15:09:11,396 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-05-19 15:09:11,396 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-05-19 15:09:11,396 - DomCFGField:106 : createTask: name :good_cnt
+[INFO ] 2017-05-19 15:09:11,397 - DomCFGField:106 : createTask: name :general_cnt
+[INFO ] 2017-05-19 15:09:11,397 - DomCFGField:106 : createTask: name :poor_cnt
+[INFO ] 2017-05-19 15:09:11,397 - DomCFGField:106 : createTask: name :withpic_cnt
+[INFO ] 2017-05-19 15:09:11,398 - DomCFGField:106 : createTask: name :comment_cnt
+[INFO ] 2017-05-19 15:09:11,398 - DomCFGField:106 : createTask: name :good_rate
+[INFO ] 2017-05-19 15:09:11,860 - ParseUtils:46 : url:http://club.yhd.com/review/58775772.html tasks size 1
+[INFO ] 2017-05-19 15:09:11,903 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2017-05-19 15:09:11,907 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2017-05-19 15:09:11,907 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2017-05-19 15:09:11,918 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2017-05-19 15:09:11,918 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-19 15:09:11,919 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-05-19 15:09:11,919 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2017-05-19 15:09:11,956 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2017-05-19 15:09:34,925 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-19 15:09:34,928 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-19 15:09:34,928 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-19 15:09:35,020 - DomCFGField:106 : createTask: name :commenter_name
+[INFO ] 2017-05-19 15:09:35,020 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-05-19 15:09:35,020 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-05-19 15:09:35,021 - DomCFGField:106 : createTask: name :good_cnt
+[INFO ] 2017-05-19 15:09:35,021 - DomCFGField:106 : createTask: name :general_cnt
+[INFO ] 2017-05-19 15:09:35,021 - DomCFGField:106 : createTask: name :poor_cnt
+[INFO ] 2017-05-19 15:09:35,021 - DomCFGField:106 : createTask: name :withpic_cnt
+[INFO ] 2017-05-19 15:09:35,022 - DomCFGField:106 : createTask: name :comment_cnt
+[INFO ] 2017-05-19 15:09:35,022 - DomCFGField:106 : createTask: name :good_rate
+[INFO ] 2017-05-19 15:10:57,703 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-05-19 15:10:57,706 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-05-19 15:10:57,707 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-05-19 15:10:57,802 - DomCFGField:106 : createTask: name :commenter_name
+[INFO ] 2017-05-19 15:10:57,803 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-05-19 15:10:57,803 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-05-19 15:10:57,803 - DomCFGField:106 : createTask: name :good_cnt
+[INFO ] 2017-05-19 15:10:57,803 - DomCFGField:106 : createTask: name :general_cnt
+[INFO ] 2017-05-19 15:10:57,804 - DomCFGField:106 : createTask: name :poor_cnt
+[INFO ] 2017-05-19 15:10:57,804 - DomCFGField:106 : createTask: name :withpic_cnt
+[INFO ] 2017-05-19 15:10:57,804 - DomCFGField:106 : createTask: name :comment_cnt
+[INFO ] 2017-05-19 15:10:57,804 - DomCFGField:106 : createTask: name :good_rate

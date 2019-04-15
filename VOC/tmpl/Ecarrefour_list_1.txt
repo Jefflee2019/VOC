@@ -1,0 +1,10 @@
+<tmpl path="">
+  <node path="main@@has-bds@0/div@@main@1/div@@maf-container plp@0/div@@maf-row@0/div@@maf-md-9 plp__contentwrapper@1/section@@maf-row plp-list@0">
+    <block path="div@@plp-list__item@*" name="items">
+      <fld name="itemprice" path="div@@@0/div@@comp-productcard__wrap@0/div@@comp-productcard__detail@0/p@@@0/strong@@@0" multi="" ext=""/>
+      <fld name="itemlink" path="div@@@0/div@@comp-productcard__wrap@0/a@@@0" multi="" ext="" link="true" linkType="eccontent" createTask="0"/>
+      <fld name="itemname" path="div@@@0/div@@comp-productcard__wrap@0/p@@comp-productcard__name@0" multi="" ext=""/>
+    <fld name="stock" path="div@@@0/div@@@1/div@@c--oos@0/p@@@0" multi="" ext=""/>
+    </block>
+  </node>
+</tmpl>

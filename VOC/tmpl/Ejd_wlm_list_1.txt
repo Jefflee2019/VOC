@@ -1,0 +1,11 @@
+
+<tmpl path=""> 
+  <node path="div@J_searchWrap@w@5"> 
+    <fld name="itemimg" path="div@@check-error@1" multi="" ext=""/>  
+    <block path="div@J_container@container@2/div@J_main@g-main2@1/div@@m-list@0/div@@ml-wrap@0/div@J_goodsList@goods-list-v2 gl-type-3 J-goods-list@1/ul@@gl-warp clearfix@0/li@@gl-item@*/div@@gl-i-wrap@0" name="items"> 
+      <fld name="itemlink" path="div@@p-name p-name-type-2@3/a@@@0" multi="" ext="" link="true" linkType="wlmEcContent" createTask="1"/>  
+      <fld name="itemname" path="div@@p-name p-name-type-2@3" multi="" ext=""/>  
+      <fld name="itemprice" path="div@@p-price@2/strong@@@0/i@@@0" multi="" ext=""/> 
+    </block> 
+  </node> 
+</tmpl>

@@ -1,0 +1,11 @@
+
+<tmpl path="">
+  <fld name="itemname" path="div@@w@4/div@@product-intro clearfix@0/div@@itemInfo-wrap@1/div@@sku-name@0" multi="" ext=""/>
+  <node path="div@crumb-wrap@crumb-wrap@3/div@@w@0">
+    <fld name="storename" path="div@@contact fr clearfix@1/div@@J-hove-wrap EDropdown fr@0/div@@item@0/div@@name@0" multi="" ext=""/>
+    <block name="cate" path="div@@crumb fl clearfix@0/div@@@*">
+      <fld name="cate" path="" multi="" ext=""/>
+    </block>
+  </node>
+  <fld name="parameter" path="div@@w@7/div@@detail@1/div@detail@ETab@1/div@@tab-con@1/div@@@0/div@@p-parameter@0" multi="" ext=""/>
+</tmpl>

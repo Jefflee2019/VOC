@@ -1,0 +1,40 @@
+[INFO ] 2016-12-01 14:34:56,040 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 14:34:56,049 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 14:34:56,049 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 14:34:56,170 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 14:34:56,171 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 14:38:06,535 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 14:38:06,539 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 14:38:06,539 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 14:38:06,553 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 14:38:06,553 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:01:18,541 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:01:18,545 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:01:18,545 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:01:18,557 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:01:18,557 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:03:41,890 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:03:41,893 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:03:41,893 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:03:41,903 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:03:41,903 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:04:58,993 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:04:58,997 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:04:58,997 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:04:59,014 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:04:59,014 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:09:50,580 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:09:50,583 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:09:50,584 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:09:50,596 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:09:50,597 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:11:18,471 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:11:18,473 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:11:18,474 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:11:18,498 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109158938&blogid=4601397&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:11:18,498 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2016-12-01 15:11:40,728 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-01 15:11:40,731 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-01 15:11:40,732 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-01 15:11:40,742 - TextUtil:362 : url:http://comment.blog.hexun.com/comment/get.aspx?articleid=109266843&blogid=18912724&page=1 use chaset utf8
+[ERROR] 2016-12-01 15:11:40,743 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

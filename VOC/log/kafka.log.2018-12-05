@@ -1,0 +1,80 @@
+[INFO ] 2018-12-05 15:23:51,276 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:23:51,296 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:23:51,297 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:23:51,323 - TextUtil:362 : url:https://csearch.suning.com/emall/brandquery/brandstoreQuery.jsonp?btc=30001556&cp=0&ps=48&st=&cityid=755 use chaset utf8
+[ERROR] 2018-12-05 15:23:51,323 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:25:18,874 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:25:18,881 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:25:18,882 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:25:18,912 - TextUtil:362 : url:https://csearch.suning.com/emall/brandquery/brandstoreQuery.jsonp?btc=30001556&cp=0&ps=48&st=&cityid=755 use chaset utf8
+[ERROR] 2018-12-05 15:25:18,912 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:26:10,479 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:26:10,484 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:26:10,484 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:26:10,497 - TextUtil:362 : url:https://csearch.suning.com/emall/brandquery/brandstoreQuery.jsonp?btc=30001556&cp=0&ps=48&st=&cityid=755 use chaset utf8
+[ERROR] 2018-12-05 15:26:10,497 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:27:31,339 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:27:31,343 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:27:31,343 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:27:31,363 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=0&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:27:31,364 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:28:21,026 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:28:21,031 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:28:21,031 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:28:21,049 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=48&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:28:21,049 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:29:01,073 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:29:01,081 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:29:01,082 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:29:01,106 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=48&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:29:01,107 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:41:04,588 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:41:04,592 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:41:04,592 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:41:04,610 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=48&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:41:04,610 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:41:38,387 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:41:38,390 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:41:38,391 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:41:38,405 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=96&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:41:38,405 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:42:19,708 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:42:19,713 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:42:19,713 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:42:19,731 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:42:19,732 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:43:34,448 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:43:34,456 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:43:34,457 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:43:34,471 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=240&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:43:34,472 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:44:03,957 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:44:03,962 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:44:03,963 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:44:03,976 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:44:03,976 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:44:46,263 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:44:46,271 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:44:46,271 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:44:46,294 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:44:46,295 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:47:35,389 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:47:35,393 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:47:35,394 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:47:35,411 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:47:35,412 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:47:51,721 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:47:51,728 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:47:51,729 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:47:51,750 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:47:51,751 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:51:34,167 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:51:34,176 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:51:34,177 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:51:34,199 - TextUtil:362 : url:http://csearch.suning.com/emall/cshop/queryByKeyword.do?vendor_Id=0070086258&start=192&rows=48 use chaset utf8
+[ERROR] 2018-12-05 15:51:34,199 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-12-05 15:52:13,195 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-05 15:52:13,200 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-05 15:52:13,201 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-05 15:52:13,223 - TextUtil:362 : url:https://csearch.suning.com/emall/brandquery/brandstoreQuery.jsonp?btc=30001556&cp=0&ps=48&st=&cityid=755 use chaset utf8
+[ERROR] 2018-12-05 15:52:13,223 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

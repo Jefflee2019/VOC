@@ -1,0 +1,6 @@
+<tmpl path="">
+<block path="div@@@1/div@@@2/div@@@1/dl@@@*" name="items">
+<fld name="link" path="dd@@news_list_tit@0/a@@@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/>
+<fld name="title" path="dd@@news_list_tit@0/a@@@0" multi="" ext=""/>
+</block>
+</tmpl>

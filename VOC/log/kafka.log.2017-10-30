@@ -1,0 +1,10 @@
+[INFO ] 2017-10-30 10:36:16,453 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-30 10:36:16,462 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-30 10:36:16,463 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-30 10:36:16,489 - TextUtil:362 : url:http://c0.3.cn/stock?extraParam=%7B%22originid%22:%221%22%7D&ch=1&skuId=4801907&area=22_1930_4773_0&cat=12218%2C12221%2C13556&venderId=1000077502 use chaset gbk
+[ERROR] 2017-10-30 10:36:16,489 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-10-30 11:03:47,937 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-30 11:03:47,943 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-30 11:03:47,943 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-30 11:03:47,966 - TextUtil:362 : url:http://c0.3.cn/stock?extraParam=%7B%22originid%22:%221%22%7D&ch=1&skuId=4801907&area=22_1930_4773_0&cat=12218%2C12221%2C13556&venderId=1000077502 use chaset gbk
+[ERROR] 2017-10-30 11:03:47,966 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk

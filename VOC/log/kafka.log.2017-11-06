@@ -1,0 +1,13 @@
+[INFO ] 2017-11-06 15:51:02,508 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-06 15:51:02,711 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-06 15:51:02,712 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-06 15:51:03,256 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-06 15:51:03,256 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-06 15:51:03,257 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-06 15:51:04,986 - ParseUtils:46 : url:https://detail.tmall.com/item.htm?id=557806596358&skuId=3464849753559 tasks size 0
+[INFO ] 2017-11-06 15:51:36,148 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-06 15:51:36,153 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-06 15:51:36,153 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-06 15:51:36,257 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-06 15:51:36,257 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-06 15:51:36,258 - DomCFGField:106 : createTask: name :itemname

@@ -1,0 +1,165 @@
+[INFO ] 2017-08-23 11:38:32,151 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 11:38:32,203 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 11:38:32,204 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 11:38:32,365 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 11:38:32,365 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 11:42:23,315 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 11:42:23,320 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 11:42:23,320 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 11:42:23,335 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 11:42:23,335 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 11:51:14,641 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 11:51:14,644 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 11:51:14,645 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 11:51:14,655 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 11:51:14,656 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 11:51:38,097 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 11:51:38,102 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 11:51:38,102 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 11:51:38,118 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 11:51:38,118 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 11:52:46,017 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 11:52:46,017 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 12:00:05,227 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 12:00:05,232 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 12:00:05,232 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 12:00:05,250 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 12:00:05,251 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 12:03:56,559 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 12:03:56,562 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 12:03:56,563 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 12:03:56,575 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 12:03:56,576 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 12:05:07,108 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 12:05:07,111 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 12:05:07,111 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 12:05:07,123 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 12:05:07,124 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 13:46:45,173 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 13:46:45,177 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 13:46:45,177 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 13:46:45,187 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 13:46:45,187 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 13:47:02,227 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 13:47:02,233 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 13:47:02,233 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 13:47:02,253 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 13:47:02,254 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 15:35:35,014 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 15:35:35,019 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 15:35:35,020 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 15:35:35,042 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-23 15:35:35,042 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-23 15:39:19,469 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 15:39:19,474 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 15:39:19,475 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 15:39:19,498 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 15:39:19,498 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 16:32:59,523 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 16:32:59,530 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 16:32:59,530 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 16:33:20,638 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 16:33:20,641 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 16:57:54,782 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 16:57:54,785 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 16:57:54,785 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 16:57:54,797 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 16:57:54,797 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 17:33:00,373 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 17:33:00,376 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 17:33:00,377 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 17:33:00,387 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 17:33:00,388 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 17:33:15,875 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 17:33:15,882 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 17:33:15,882 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 17:33:15,905 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 17:33:15,905 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 18:11:18,558 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:11:18,564 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:11:18,564 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:11:18,581 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=2_2830_51800_0 use chaset gbk
+[ERROR] 2017-08-23 18:11:18,581 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 18:26:45,201 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:26:45,206 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:26:45,207 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:26:45,218 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=2_2830_51800_0 use chaset gbk
+[ERROR] 2017-08-23 18:26:45,218 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 18:27:03,262 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:27:03,268 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:27:03,268 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:27:03,278 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 18:27:03,278 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-08-23 18:27:21,330 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:27:21,334 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:27:21,334 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:27:21,346 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:27:21,346 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:27:21,509 - Ejd_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-08-23 18:27:21,510 - Ejd_wlmContentJson:60 : AMJsonParse exception,taskdat url=https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0.jsonUrl:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0
+java.lang.NullPointerException
+	at com.bfd.parse.json.Ejd_wlmContentJson.getStockState(Ejd_wlmContentJson.java:173)
+	at com.bfd.parse.json.Ejd_wlmContentJson.executeParse(Ejd_wlmContentJson.java:154)
+	at com.bfd.parse.json.Ejd_wlmContentJson.parse(Ejd_wlmContentJson.java:56)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.testDemo(Ejd_wlmContentJsonTest.java:39)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.main(Ejd_wlmContentJsonTest.java:15)
+[INFO ] 2017-08-23 18:27:48,429 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:27:48,433 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:27:48,434 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:27:48,451 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:27:48,451 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:27:48,618 - Ejd_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-08-23 18:27:48,619 - Ejd_wlmContentJson:60 : AMJsonParse exception,taskdat url=https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0.jsonUrl:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0
+java.lang.NullPointerException
+	at com.bfd.parse.json.Ejd_wlmContentJson.getStockState(Ejd_wlmContentJson.java:173)
+	at com.bfd.parse.json.Ejd_wlmContentJson.executeParse(Ejd_wlmContentJson.java:154)
+	at com.bfd.parse.json.Ejd_wlmContentJson.parse(Ejd_wlmContentJson.java:56)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.testDemo(Ejd_wlmContentJsonTest.java:39)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.main(Ejd_wlmContentJsonTest.java:15)
+[INFO ] 2017-08-23 18:28:19,050 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:28:19,056 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:28:19,056 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:28:19,075 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:28:19,075 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:28:19,236 - Ejd_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-08-23 18:28:58,092 - Ejd_wlmContentJson:60 : AMJsonParse exception,taskdat url=https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0.jsonUrl:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0
+java.lang.NullPointerException
+	at com.bfd.parse.json.Ejd_wlmContentJson.getStockState(Ejd_wlmContentJson.java:173)
+	at com.bfd.parse.json.Ejd_wlmContentJson.executeParse(Ejd_wlmContentJson.java:154)
+	at com.bfd.parse.json.Ejd_wlmContentJson.parse(Ejd_wlmContentJson.java:56)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.testDemo(Ejd_wlmContentJsonTest.java:39)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.main(Ejd_wlmContentJsonTest.java:15)
+[INFO ] 2017-08-23 18:29:07,720 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:29:07,725 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:29:07,725 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:29:07,743 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:29:07,744 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:29:07,904 - Ejd_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-08-23 18:30:43,390 - Ejd_wlmContentJson:60 : AMJsonParse exception,taskdat url=https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0.jsonUrl:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0
+java.lang.NullPointerException
+	at com.bfd.parse.json.Ejd_wlmContentJson.getStockState(Ejd_wlmContentJson.java:173)
+	at com.bfd.parse.json.Ejd_wlmContentJson.executeParse(Ejd_wlmContentJson.java:154)
+	at com.bfd.parse.json.Ejd_wlmContentJson.parse(Ejd_wlmContentJson.java:56)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.testDemo(Ejd_wlmContentJsonTest.java:39)
+	at com.bfd.parse.test.plugin.Ejd_wlmContentJsonTest.main(Ejd_wlmContentJsonTest.java:15)
+[INFO ] 2017-08-23 18:31:02,096 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:31:02,101 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:31:02,101 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:31:02,118 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:31:02,118 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:31:02,279 - Ejd_wlmContentJson:81 : json parse error or json is null
+[INFO ] 2017-08-23 18:32:40,157 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:32:40,174 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:32:40,175 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:32:40,193 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=1_2801_2827_0 use chaset gbk
+[ERROR] 2017-08-23 18:32:40,193 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-08-23 18:32:40,379 - Ejd_wlmContentJson:81 : json parse error or json is null
+[INFO ] 2017-08-23 18:34:49,202 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-23 18:34:49,207 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-23 18:34:49,207 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-23 18:34:49,225 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-08-23 18:34:49,225 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk

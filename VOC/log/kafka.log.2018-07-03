@@ -1,0 +1,30 @@
+[INFO ] 2018-07-03 16:18:04,996 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 16:18:05,060 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 16:18:05,060 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 16:18:05,108 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=0 use chaset utf8
+[ERROR] 2018-07-03 16:18:05,108 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-03 16:19:10,080 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 16:19:10,084 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 16:19:10,092 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 16:19:10,116 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=0 use chaset gbk
+[ERROR] 2018-07-03 16:19:10,117 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2018-07-03 16:19:44,608 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 16:19:44,613 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 16:19:44,623 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 16:20:35,133 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=0 use chaset gbk
+[ERROR] 2018-07-03 16:20:48,695 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2018-07-03 16:24:06,235 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 16:24:06,239 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 16:24:06,248 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 16:24:12,767 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=0 use chaset gbk
+[ERROR] 2018-07-03 16:24:12,770 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2018-07-03 16:46:09,376 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 16:46:09,379 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 16:46:09,379 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 16:46:09,400 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=0 use chaset gbk
+[ERROR] 2018-07-03 16:46:09,401 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2018-07-03 17:11:08,816 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-03 17:11:08,819 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-03 17:11:08,820 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-03 17:11:08,832 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=vivo&sort=upvote&type=content&offset=50 use chaset gbk
+[ERROR] 2018-07-03 17:11:08,832 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk

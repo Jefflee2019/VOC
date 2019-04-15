@@ -1,0 +1,235 @@
+[INFO ] 2016-11-16 14:53:29,194 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-11-16 14:53:29,230 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-11-16 14:53:29,230 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2016-11-16 14:53:29,233 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:53:29,233 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:53:29,267 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:53:29,267 - ConfigUtils:110 : key=Ice.MessageSizeMax, will use defaultValue=30760
+[INFO ] 2016-11-16 14:53:29,269 - ConfigUtils:110 : key=Ice.MessageSizeMax, will use defaultValue=30760
+[INFO ] 2016-11-16 14:53:29,269 - AbstractClient:98 : downloadservice service, set MessageSizeMax to 30760
+[INFO ] 2016-11-16 14:53:29,269 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:53:29,271 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:53:29,271 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:53:29,271 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:53:29,352 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:53:30,201 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:53:30,201 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[INFO ] 2016-11-16 14:53:30,600 - DownloadClient:183 : requestjson:{"needajaxdata":"1","accdata":{"userid":"13412022647","siteid":"35","code":"0"},"pagetype":"newscontent","siteid":"354","type":"test","cid":"N10jqka","url":"http://news.10jqka.com.cn/20160316/c588546444.shtml"}
+[WARN ] 2016-11-16 14:53:50,604 - DownloadClient:187 : main exception while calling getPage , err:
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:185)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:53:51,716 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:53:51,797 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:53:51,800 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:53:51,800 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:53:51,803 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:53:51,803 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:53:51,804 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:53:51,808 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:53:52,601 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:53:52,602 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[WARN ] 2016-11-16 14:54:12,604 - DownloadClient:203 : main exception while connect to downloader server: 1, 2
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:200)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:54:13,606 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:54:13,697 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:54:13,699 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:54:13,700 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:54:13,702 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:54:13,703 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:54:13,704 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:54:13,708 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:54:14,292 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:54:14,293 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[WARN ] 2016-11-16 14:54:34,294 - DownloadClient:203 : main exception while connect to downloader server: 2, 3
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:200)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:54:36,295 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:54:36,404 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:54:36,405 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:54:36,406 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:54:36,406 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:54:36,407 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:54:36,407 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:54:36,409 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:55:00,053 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:55:00,163 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:55:00,164 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:55:00,164 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:55:00,166 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:55:00,166 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:55:00,166 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:55:00,168 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:55:25,831 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:55:25,933 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:55:25,934 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:55:25,934 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:55:25,935 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:55:25,936 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:55:25,936 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:55:25,939 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:56:04,013 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:56:04,125 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:56:04,126 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:56:04,126 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:56:04,127 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:56:04,128 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:56:04,128 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:56:04,130 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:56:37,830 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:56:37,947 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:56:37,948 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:56:37,949 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:56:37,950 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:56:37,951 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:56:37,952 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:56:37,954 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:57:02,087 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:57:02,088 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[WARN ] 2016-11-16 14:57:22,089 - DownloadClient:203 : main exception while connect to downloader server: 21, 34
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:200)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:57:43,090 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:57:43,192 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:57:43,193 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:57:43,194 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:57:43,195 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:57:43,195 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:57:43,196 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:57:43,198 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:57:43,838 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:57:43,838 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[WARN ] 2016-11-16 14:58:03,839 - DownloadClient:203 : main exception while connect to downloader server: 34, 55
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:200)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:58:37,841 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:58:37,950 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:58:37,951 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:58:37,952 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:58:37,953 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:58:37,954 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:58:37,954 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:58:37,956 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:58:38,550 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 14:58:38,550 - AbstractClient:122 : Connected downloadservice service. proxy=DownloadService
+[WARN ] 2016-11-16 14:58:58,551 - DownloadClient:203 : main exception while connect to downloader server: 55, 89
+Ice.TimeoutException
+	at IceInternal.Outgoing.invoke(Outgoing.java:147)
+	at com.bfd.crawler._DownloaderDelM.getOnePage(_DownloaderDelM.java:32)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:45)
+	at com.bfd.crawler.DownloaderPrxHelper.getOnePage(DownloaderPrxHelper.java:19)
+	at com.bfd.parse.client.DownloadClient.getPage(DownloadClient.java:200)
+	at com.bfd.parse.reprocess.test.N10jqkaContentReTest.main(N10jqkaContentReTest.java:57)
+[INFO ] 2016-11-16 14:59:53,552 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 14:59:53,560 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 14:59:53,562 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 14:59:53,563 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:59:53,564 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 14:59:53,564 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 14:59:53,565 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 14:59:53,567 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:00:15,188 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:00:15,291 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:00:15,292 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:00:15,292 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:00:15,294 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:00:15,294 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:00:15,295 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:00:15,297 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:00:37,151 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:00:37,262 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:00:37,263 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:00:37,264 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:00:37,265 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:00:37,266 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:00:37,266 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:00:37,268 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:00:59,928 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:01:00,029 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:01:00,030 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:01:00,031 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:00,032 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:00,032 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:01:00,033 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:01:00,035 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:01:23,711 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:01:23,810 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:01:23,811 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:01:23,812 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:23,812 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:23,813 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:01:23,814 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:01:23,816 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:01:50,869 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:01:51,018 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:01:51,019 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:01:51,019 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:51,020 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:01:51,020 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:01:51,020 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:01:51,021 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:02:19,837 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:02:19,933 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:02:19,933 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:02:19,934 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:02:19,934 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:02:19,934 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:02:19,934 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:02:19,935 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:02:53,633 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:02:53,739 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:02:53,740 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:02:53,741 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:02:53,742 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:02:53,742 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:02:53,743 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:02:53,745 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:03:35,497 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:03:35,588 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:03:35,589 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:03:35,590 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:03:35,591 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:03:35,591 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:03:35,591 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:03:35,593 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:04:30,290 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:04:30,385 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:04:30,386 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:04:30,386 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:04:30,386 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:04:30,387 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:04:30,387 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:04:30,388 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService
+[INFO ] 2016-11-16 15:05:46,027 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2016-11-16 15:05:46,031 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2016-11-16 15:05:46,032 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2016-11-16 15:05:46,032 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:05:46,033 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2016-11-16 15:05:46,034 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2016-11-16 15:05:46,034 - ConfigUtils:110 : key=Ice.Override.ConnectTimeout, will use defaultValue=10000
+[INFO ] 2016-11-16 15:05:46,037 - ConfigUtils:110 : key=Downloader.Proxy, will use defaultValue=DownloadService

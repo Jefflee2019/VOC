@@ -1,0 +1,86 @@
+[INFO ] 2019-03-21 09:51:31,446 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 09:51:31,451 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 09:51:31,452 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:51:57,282 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 14:51:57,289 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 14:51:57,289 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:51:57,636 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2019-03-21 14:51:57,637 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-21 14:51:57,637 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-21 14:51:57,641 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-21 14:51:57,641 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-21 14:51:57,641 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-21 14:51:57,641 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-21 14:51:57,642 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-21 14:51:57,642 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-21 14:51:57,642 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-21 14:51:57,642 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-21 14:51:57,642 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2019-03-21 14:51:58,305 - DomSearch:948 : null Missing field: nextpage rp:["div@@pgs mtm mbm cl@3","div@@pager pager_bottom@0","div@@page_list@0","div@@pg@1","a@@nxt@8"]
+[INFO ] 2019-03-21 14:51:58,324 - ParseUtils:46 : url:https://bbs.feng.com/read-htm-tid-12112367.html tasks size 0
+[INFO ] 2019-03-21 14:52:56,234 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 14:52:56,237 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 14:52:56,237 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:52:56,354 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2019-03-21 14:52:56,355 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-21 14:52:56,355 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-21 14:52:56,356 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-21 14:52:56,356 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-21 14:52:56,356 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-21 14:52:56,357 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-21 14:52:56,357 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-21 14:52:56,357 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-21 14:52:56,357 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-21 14:52:56,357 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-21 14:52:56,358 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2019-03-21 14:52:56,648 - DomSearch:948 : null Missing field: nextpage rp:["div@@pgs mtm mbm cl@3","div@@pager pager_bottom@0","div@@page_list@0","div@@pg@1","a@@nxt@8"]
+[INFO ] 2019-03-21 14:54:36,095 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 14:54:36,106 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 14:54:36,106 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:54:36,227 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2019-03-21 14:54:36,227 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-21 14:54:36,228 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-21 14:54:36,229 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-21 14:54:36,230 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-21 14:54:36,231 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-21 14:54:36,231 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-21 14:54:36,232 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-21 14:54:36,232 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-21 14:54:36,232 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-21 14:54:36,233 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-21 14:54:36,233 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2019-03-21 14:54:36,551 - DomSearch:948 : null Missing field: nextpage rp:["div@@pgs mtm mbm cl@3","div@@pager pager_bottom@0","div@@page_list@0","div@@pg@1","a@@nxt@8"]
+[INFO ] 2019-03-21 14:56:09,068 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 14:56:09,071 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 14:56:09,072 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:56:09,195 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2019-03-21 14:56:09,196 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-21 14:56:09,196 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-21 14:56:09,197 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-21 14:56:09,197 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-21 14:56:09,197 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-21 14:56:09,198 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-21 14:56:09,198 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-21 14:56:09,198 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-21 14:56:09,198 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-21 14:56:09,198 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-21 14:56:09,199 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2019-03-21 14:56:10,030 - DomSearch:948 : null Missing field: view_cnt rp:["span@@count@0","em@@@0"]
+[INFO ] 2019-03-21 14:56:10,032 - DomSearch:948 : null Missing field: replycount rp:["span@@count@2","em@@@0"]
+[ERROR] 2019-03-21 14:56:10,035 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[table@@plhin@0]
+[INFO ] 2019-03-21 14:57:27,274 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-21 14:57:27,278 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-21 14:57:27,279 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-21 14:57:27,710 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2019-03-21 14:57:27,711 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-21 14:57:27,711 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-21 14:57:27,712 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-21 14:57:27,713 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-21 14:57:27,713 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-21 14:57:27,713 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-21 14:57:27,713 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-21 14:57:27,714 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-21 14:57:27,714 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-21 14:57:27,714 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-21 14:57:27,714 - DomCFGField:106 : createTask: name :replycount
+[ERROR] 2019-03-21 14:57:28,102 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[table@@plhin@0]

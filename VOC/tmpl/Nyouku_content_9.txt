@@ -1,0 +1,1 @@
+<tmpl path=""><node path="div@sMain@s_main layout_121 clearfix@1"><node path="div@@base@0/div@@base_info@0/h1@@title@0"><fld name="title" path="" multi="" ext=""/><block name="cate" path="a@@@0"><fld name="cate" path="" multi="" ext=""/></block></node></node></tmpl>

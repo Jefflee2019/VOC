@@ -1,0 +1,12 @@
+[INFO ] 2017-10-20 14:58:17,396 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-20 14:58:17,413 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-20 14:58:17,414 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-20 14:58:17,468 - TextUtil:362 : url:http://item.feiniu.com/promotion/90301847010/204373?guid=&isNeedPromotion=1&isPromotion=0&showPromotion=1 use chaset utf8
+[ERROR] 2017-10-20 14:58:17,468 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-20 14:58:17,632 - Efeiniu_wlmContentJson:81 : json parse error or json is null
+[INFO ] 2017-10-20 15:00:12,152 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-20 15:00:12,158 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-20 15:00:12,158 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-20 15:00:12,179 - TextUtil:362 : url:http://item.feiniu.com/promotion/90301847010/204373?guid=&isNeedPromotion=1&isPromotion=0&showPromotion=1 use chaset utf8
+[ERROR] 2017-10-20 15:00:12,180 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-20 15:00:12,357 - Efeiniu_wlmContentJson:81 : json parse error or json is null

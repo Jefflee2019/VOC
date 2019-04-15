@@ -1,0 +1,6 @@
+<tmpl path="">
+  <block path="div@warper@@3/div@container@gclearfix@0/div@main@@0/div@@result_wrap@0/ul@news@result@0/li@@res-list hasimg@*" name="items">
+    <fld name="link" path="h3@@@0/a@@@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/>
+    <fld name="title" path="h3@@@0/a@@@0" multi="" ext=""/>
+  </block>
+</tmpl>

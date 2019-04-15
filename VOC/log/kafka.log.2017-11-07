@@ -1,0 +1,44 @@
+[INFO ] 2017-11-07 09:28:17,083 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-07 09:28:17,111 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-07 09:28:17,111 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-07 09:28:19,045 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-07 09:28:19,046 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-07 09:28:19,054 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-07 09:28:22,426 - ParseUtils:46 : url:https://detail.tmall.com/item.htm?id=557806596358&skuId=3464849753559 tasks size 0
+[INFO ] 2017-11-07 09:35:18,716 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-07 09:35:18,718 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-07 09:35:18,718 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-07 09:35:18,810 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-07 09:35:18,810 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-07 09:35:18,810 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-07 09:35:18,811 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-07 09:35:18,827 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-11-07 09:35:19,337 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-07 09:35:19,337 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-07 09:35:19,338 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-11-07 09:35:19,393 - ParseUtils:46 : url:https://product.suning.com/0070099504/709544125.html tasks size 0
+[INFO ] 2017-11-07 10:56:31,309 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-07 10:56:31,312 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-07 10:56:31,313 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-07 10:56:31,411 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-07 10:56:31,411 - DomCFGField:106 : createTask: name :promotioninfo
+[INFO ] 2017-11-07 10:56:31,411 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-11-07 10:56:31,411 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-07 10:56:31,412 - DomCFGField:106 : createTask: name :price
+[INFO ] 2017-11-07 10:56:31,412 - DomCFGField:106 : createTask: name :vipprice
+[INFO ] 2017-11-07 10:56:31,412 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-07 10:56:31,413 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-07 10:56:32,654 - DomSearch:948 : null Missing field: parameter rp:["div@@@9","div@prodDetails@@0","div@@wrapper CNlocale@0","div@@column col1 @0","div@@section techD@0","div@@content pdClearfix@1","div@@attrG@0","div@@pdTab@0","table@@@0","tbody@@@0"]
+[INFO ] 2017-11-07 10:56:34,109 - ParseUtils:46 : url:https://www.amazon.cn/MEXICAN-%E7%A8%BB%E8%8D%89%E4%BA%BA-%E6%A0%BC%E7%BA%B9%E5%8A%A0%E7%BB%92%E8%A1%AC%E8%A1%AB%E7%94%B7%E9%95%BF%E8%A2%96%E8%A1%AC%E8%A1%A3-%E4%BC%91%E9%97%B2%E8%A1%AC%E8%A1%AB-%E7%94%B7%E5%A3%AB%E4%B8%8A%E8%A1%A3-%E5%8A%A0%E5%8E%9A%E4%BF%AE%E8%BA%AB%E8%A1%AC%E8%A1%A3%E7%94%B7%E8%A1%AC%E8%A1%AB-%E6%97%B6%E5%B0%9A%E6%89%93%E5%BA%95%E8%A1%AB/dp/B076BC21NP?ie=UTF8 tasks size 0
+[INFO ] 2017-11-07 10:57:45,034 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-07 10:57:45,038 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-07 10:57:45,039 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-07 10:57:45,145 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-07 10:57:45,146 - DomCFGField:106 : createTask: name :promotioninfo
+[INFO ] 2017-11-07 10:57:45,146 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-11-07 10:57:45,146 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-07 10:57:45,147 - DomCFGField:106 : createTask: name :price
+[INFO ] 2017-11-07 10:57:45,147 - DomCFGField:106 : createTask: name :vipprice
+[INFO ] 2017-11-07 10:57:45,147 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-07 10:57:45,148 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-07 10:57:46,521 - DomSearch:948 : null Missing field: parameter rp:["div@@@9","div@prodDetails@@0","div@@wrapper CNlocale@0","div@@column col1 @0","div@@section techD@0","div@@content pdClearfix@1","div@@attrG@0","div@@pdTab@0","table@@@0","tbody@@@0"]

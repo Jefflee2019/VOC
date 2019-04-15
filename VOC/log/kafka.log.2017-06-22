@@ -1,0 +1,302 @@
+[INFO ] 2017-06-22 14:17:53,393 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:17:53,403 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:17:53,404 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:17:53,501 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:17:53,502 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:17:53,502 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:17:53,502 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-06-22 14:17:53,503 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:17:53,503 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:17:53,503 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:17:53,503 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:17:53,503 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:17:53,504 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:17:53,504 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:17:53,505 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:17:53,506 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:17:54,281 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:36:31,942 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:36:31,944 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:36:31,945 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:36:32,031 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:36:32,031 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:36:32,032 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:36:32,032 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-06-22 14:36:32,032 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:36:32,032 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:36:32,033 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:36:32,033 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:36:32,033 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:36:32,033 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:36:32,033 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:36:32,034 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:36:32,034 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:36:32,591 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:37:31,664 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:37:31,667 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:37:31,667 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:37:31,758 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:37:31,758 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:37:31,758 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:37:31,759 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-06-22 14:37:31,759 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:37:31,759 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:37:31,759 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:37:31,759 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:37:31,760 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:37:31,760 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:37:31,760 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:37:31,761 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:37:31,761 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:37:32,312 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:40:05,369 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:40:05,379 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:40:05,379 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:40:05,493 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:40:05,494 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:40:05,494 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:40:05,494 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-06-22 14:40:05,495 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:40:05,495 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:40:05,495 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:40:05,496 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:40:05,496 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:40:05,496 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:40:05,497 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:40:05,498 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:40:05,498 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:40:06,116 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:49:09,366 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:49:09,368 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:49:09,369 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:49:09,451 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:49:09,452 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:49:09,452 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:49:09,452 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-06-22 14:49:09,452 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:49:09,452 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:49:09,453 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:49:09,453 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:49:09,453 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:49:09,453 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:49:09,453 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:49:09,454 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:49:09,454 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:49:09,992 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:50:20,508 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:50:20,511 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:50:20,511 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:50:20,600 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:50:20,600 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:50:20,601 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:50:20,601 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 14:50:20,601 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:50:20,601 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:50:20,601 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:50:20,602 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:50:20,602 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:50:20,602 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:50:20,602 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:50:20,603 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:50:20,603 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:50:21,169 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 14:52:48,068 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 14:52:48,071 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 14:52:48,071 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 14:52:48,160 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 14:52:48,161 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 14:52:48,161 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 14:52:48,161 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 14:52:48,161 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 14:52:48,162 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 14:52:48,162 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 14:52:48,162 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 14:52:48,162 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 14:52:48,163 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 14:52:48,163 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 14:52:48,164 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 14:52:48,164 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 14:52:48,742 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 15:21:21,054 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:21:21,058 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:21:21,059 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:21:21,156 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:21:21,156 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:21:21,157 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:21:21,157 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:21:21,157 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:21:21,157 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:21:21,157 - DomCFGField:106 : createTask: name :reg_time
+[INFO ] 2017-06-22 15:21:21,158 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:21:21,158 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:21:21,158 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:21:21,158 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:21:21,159 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:21:21,159 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:21:21,722 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 15:21:52,376 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:21:52,378 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:21:52,379 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:21:52,466 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:21:52,466 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:21:52,466 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:21:52,467 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:21:52,467 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:21:52,467 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:21:52,467 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:21:52,467 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:21:52,468 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:21:52,468 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:21:52,468 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:21:53,036 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 15:36:00,005 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:36:00,009 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:36:00,009 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:36:00,103 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:36:00,104 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:36:00,104 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:36:00,104 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:36:00,104 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:36:00,104 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:36:00,105 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:36:00,105 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:36:00,105 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:36:00,105 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:36:00,105 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:36:00,106 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:36:00,106 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:36:00,674 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 15:36:00,684 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 15:37:52,834 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:37:52,836 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:37:52,837 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:37:52,924 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:37:52,924 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:37:52,925 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:37:52,925 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:37:52,925 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:37:52,925 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:37:52,925 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:37:52,926 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:37:52,926 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:37:52,926 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:37:52,926 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:37:52,927 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:37:52,927 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:37:53,508 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 15:37:53,522 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 15:54:41,993 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:54:41,999 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:54:42,000 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:54:42,100 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:54:42,100 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:54:42,100 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:54:42,101 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:54:42,101 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:54:42,101 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:54:42,101 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:54:42,101 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:54:42,102 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:54:42,102 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:54:42,102 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:54:42,103 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:54:42,103 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:54:42,744 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 15:54:42,766 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 15:56:22,336 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:56:22,339 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:56:22,340 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:56:22,430 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:56:22,430 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:56:22,431 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:56:22,431 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:56:22,431 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:56:22,431 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:56:22,432 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:56:22,432 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:56:22,432 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:56:22,432 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:56:22,433 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:56:22,433 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:56:22,434 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:56:22,997 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 15:56:23,011 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 15:57:22,120 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:57:22,122 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:57:22,122 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:57:22,208 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:57:22,209 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:57:22,209 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:57:22,209 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:57:22,209 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:57:22,209 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:57:22,210 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:57:22,210 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:57:22,210 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:57:22,210 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:57:22,210 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:57:22,211 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:57:22,211 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:57:22,730 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 15:58:43,699 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 15:58:43,702 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 15:58:43,702 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 15:58:43,799 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 15:58:43,799 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 15:58:43,800 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 15:58:43,800 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 15:58:43,800 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 15:58:43,800 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 15:58:43,800 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 15:58:43,801 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 15:58:43,801 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 15:58:43,801 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 15:58:43,801 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 15:58:43,802 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 15:58:43,802 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 15:58:44,375 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 15:58:44,406 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 15:58:44,415 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 16:00:48,506 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 16:00:48,509 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 16:00:48,510 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 16:00:48,605 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-22 16:00:48,606 - DomCFGField:106 : createTask: name :favor_cnt
+[INFO ] 2017-06-22 16:00:48,606 - DomCFGField:106 : createTask: name :tag
+[INFO ] 2017-06-22 16:00:48,606 - DomCFGField:106 : createTask: name :brief
+[INFO ] 2017-06-22 16:00:48,606 - DomCFGField:106 : createTask: name :ads
+[INFO ] 2017-06-22 16:00:48,606 - DomCFGField:106 : createTask: name :play_cnt
+[INFO ] 2017-06-22 16:00:48,607 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-22 16:00:48,607 - DomCFGField:106 : createTask: name :editor
+[INFO ] 2017-06-22 16:00:48,607 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-06-22 16:00:48,607 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2017-06-22 16:00:48,607 - DomCFGField:106 : createTask: name :collector
+[INFO ] 2017-06-22 16:00:48,608 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-22 16:00:48,608 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 16:00:49,166 - DomSearch:948 : null Missing field: brief rp:["div@@CA_summary@2"]
+[INFO ] 2017-06-22 16:00:49,197 - DomSearch:948 : null Missing field: authorname rp:["h3@@@0"]
+[INFO ] 2017-06-22 16:00:49,209 - DomSearch:948 : null Missing field: collector rp:["ul@@@0"]
+[INFO ] 2017-06-22 16:44:45,521 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 16:44:45,524 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 16:44:45,524 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 16:44:45,613 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2017-06-22 16:44:45,613 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 16:44:46,122 - ParseUtils:46 : url:http://www.ceconline.com/FSSearch.do?keyword=%BB%AA%CE%AA&pageno=01&sortBy=0 tasks size 1
+[INFO ] 2017-06-22 16:44:46,125 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2017-06-22 16:44:46,125 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2017-06-22 16:44:46,126 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2017-06-22 16:44:46,167 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2017-06-22 16:44:46,167 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-06-22 16:44:46,168 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-06-22 16:44:46,168 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2017-06-22 16:44:46,221 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2017-06-22 16:45:12,585 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 16:45:12,589 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 16:45:12,589 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 16:45:12,671 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2017-06-22 16:45:12,671 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-22 16:48:13,672 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-22 16:48:13,675 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-22 16:48:13,676 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-22 16:48:13,778 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2017-06-22 16:48:13,778 - DomCFGField:106 : createTask: name :title

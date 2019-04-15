@@ -1,0 +1,23 @@
+[INFO ] 2018-04-27 11:59:06,053 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-04-27 11:59:06,056 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-04-27 11:59:06,056 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-04-27 11:59:06,139 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2018-04-27 11:59:06,139 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2018-04-27 11:59:06,140 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-04-27 11:59:06,140 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-04-27 11:59:06,761 - ParseUtils:46 : url:https://item.jd.com/12042253.html tasks size 0
+[INFO ] 2018-04-27 14:10:52,216 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-04-27 14:10:52,218 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-04-27 14:10:52,219 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-04-27 14:10:52,379 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2018-04-27 14:10:52,380 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2018-04-27 14:10:52,381 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-04-27 14:10:52,381 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-04-27 14:10:52,833 - ParseUtils:46 : url:https://item.jd.com/12042253.html tasks size 0
+[INFO ] 2018-04-27 14:11:10,224 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-04-27 14:11:10,229 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-04-27 14:11:10,230 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-04-27 14:11:10,330 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2018-04-27 14:11:10,330 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2018-04-27 14:11:10,331 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-04-27 14:11:10,331 - DomCFGField:106 : createTask: name :itemname

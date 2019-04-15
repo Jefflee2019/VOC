@@ -1,0 +1,12 @@
+[INFO ] 2017-09-15 11:38:13,305 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-15 11:38:13,313 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-15 11:38:13,314 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-15 11:38:13,512 - TextUtil:362 : url:https://review.suning.com/ajax/review_satisfy/general-000000000612625463-0000000000-----satisfy.htm use chaset utf8
+[ERROR] 2017-09-15 11:38:13,513 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-15 11:39:36,988 - TextUtil:362 : url:https://review.suning.com/ajax/review_satisfy/general-000000000612625463-0000000000-----satisfy.htm use chaset utf8
+[ERROR] 2017-09-15 11:39:36,989 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-15 12:02:50,651 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-15 12:02:50,654 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-15 12:02:50,654 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-15 12:02:50,664 - TextUtil:362 : url:https://review.suning.com/ajax/review_satisfy/general-000000000612625463-0000000000-----satisfy.htm use chaset utf8
+[ERROR] 2017-09-15 12:02:50,664 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

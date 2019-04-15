@@ -1,0 +1,27 @@
+[INFO ] 2018-10-29 18:28:36,490 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-10-29 18:28:36,495 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-10-29 18:28:36,495 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-10-29 18:28:36,601 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-10-29 18:28:36,601 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-10-29 18:28:36,602 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-10-29 18:28:37,047 - ParseUtils:46 : url:https://www.baidu.com/s?tn=news&rtt=4&bsst=1&cl=2&wd=%E5%8D%8E%E4%B8%BA+site%3Asohu.com tasks size 12
+[INFO ] 2018-10-29 18:28:37,051 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-10-29 18:28:37,052 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-10-29 18:28:37,053 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-10-29 18:28:37,061 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-10-29 18:28:37,061 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-10-29 18:28:37,062 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-10-29 18:28:37,063 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-10-29 18:28:37,119 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-10-29 18:28:58,334 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-10-29 18:28:58,336 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-10-29 18:28:58,337 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-10-29 18:28:58,436 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-10-29 18:28:58,436 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-10-29 18:28:58,437 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-10-29 18:29:49,158 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-10-29 18:29:49,162 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-10-29 18:29:49,162 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-10-29 18:29:49,282 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-10-29 18:29:49,283 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-10-29 18:29:49,283 - DomCFGField:106 : createTask:1 name :nextpage

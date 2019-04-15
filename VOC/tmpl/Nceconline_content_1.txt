@@ -1,0 +1,21 @@
+<tmpl path="">
+  <node path="div@@wrap@2/div@@content_left@0">
+    <node path="div@@CA_articleContent@5">
+      <fld name="content" path="" multi="" ext=""/>
+      <fld name="favor_cnt" path="div@@CA_articleOptions@15" multi="" ext=""/>
+      <fld name="tag" path="div@@CA_infoSec@1" multi="" ext=""/>
+      <fld name="brief" path="div@@CA_summary@2" multi="" ext=""/>
+      <fld name="ads" path="div@@ads_article_inner@5" multi="" ext=""/>
+      <fld name="play_cnt" path="div@@art_relCont@14" multi="" ext=""/>
+      <fld name="keyword" path="div@@ext_area_sts@10" multi="" ext=""/>
+      <fld name="editor" path="div@@new_logout@7/div@@new_logout_content@0" multi="" ext=""/>
+      <fld name="reply_cnt" path="div@@tagCont@12" multi="" ext=""/>
+      <fld name="authorname" path="h3@@@0" multi="" ext=""/>
+      <fld name="collector" path="ul@@@0" multi="" ext=""/>
+    </node>
+    <block name="cate" path="div@@CA_subNav@1/a@@@*">
+      <fld name="cate" path="" multi="" ext=""/>
+    </block>
+    <fld name="title" path="h1@@articleBd CA_articleTitle@0" multi="" ext=""/>
+  </node>
+</tmpl>

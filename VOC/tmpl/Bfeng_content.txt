@@ -1,0 +1,27 @@
+<tmpl path="">
+  <node path="div@wp@wp@7/div@ct@wp cl re_ct@2">
+    <node path="div@postlist@pl bm@1">
+      <node path="div@@@0/table@@plhin@0/tbody@@@0/tr@@@0">
+        <fld name="contents" path="td@@plc@2/div@@pct@2/div@@pcb@1/div@@t_fsz@0/table@@@0/tbody@@@0/tr@@@0/td@@t_f@0" multi="" ext=""/>
+        <fld name="newstime" path="td@@plc@2/div@@pi@1/div@@pti@1/div@@authi@1/em@@@0" multi="" ext=""/>
+        <block path="td@@pls@0/div@@pls_panel@0/div@@pls favatar@0" name="author">
+          <fld name="authorname" path="div@@pi@0/div@@authi@0/a@@xw1@0" multi="" ext=""/>
+          <fld name="author_level" path="div@@user_props@2/p@@@0/em@@@0/a@@@0" multi="" ext=""/>
+        </block>
+      </node>
+      <block path="div@@@*/table@@plhin@0/tbody@@@0/tr@@@0" name="replys">
+        <fld name="replyusername" path="td@@pls@0/div@@pls_panel@0/div@@pls favatar@0/div@@pi@0/div@@authi@0/a@@xw1@0" multi="" ext=""/>
+        <fld name="replycontent" path="td@@plc@2/div@@pct@2/div@@pcb@0/div@@t_fsz@0" multi="" ext=""/>
+        <fld name="replydate" path="td@@plc@2/div@@pi@1/div@@pti@0/div@@authi@1/em@@@0" multi="" ext=""/>
+        <fld name="replyfloor" path="td@@plc@2/div@@pi@1/strong@@@0/a@@@0" multi="" ext=""/>
+      </block>
+      <node path="table@@pl_tit_table@0/tbody@@@0/tr@@@0">
+        <fld name="title" path="td@@plc ptm pbn vwthd@1/div@@pl_tit_panel@1/h1@@ts@0/span@thread_subject@@0" multi="" ext=""/>
+        <node path="td@@pls@0/div@@pl_slider_top@0">
+          <fld name="view_cnt" path="span@@count@0/em@@@0" multi="" ext=""/>
+          <fld name="replycount" path="span@@count@2/em@@@0" multi="" ext=""/>
+        </node>
+      </node>
+    </node>
+  </node>
+</tmpl>

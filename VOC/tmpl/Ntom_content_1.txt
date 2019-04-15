@@ -1,0 +1,16 @@
+<tmpl path="">
+  <node path="div@@postwrap@0/div@@content@0">
+    <node path="div@PrintTxt@@0">
+      <fld name="content" path="" multi="" ext=""/>
+      <node path="div@@operate@0">
+        <fld name="keyword" path="" multi="" ext=""/>
+        <fld name="source" path="div@@newsinfo@1/a@@@0" multi="" ext=""/>
+        <fld name="post_time" path="div@@newsinfo@3" multi="" ext=""/>
+      </node>
+      <fld name="title" path="h1@@@0" multi="" ext=""/>
+    </node>
+    <block name="cate" path="span@print_nav@@0/div@@guide@0/span@@@0/a@@@*">
+      <fld name="cate" path="" multi="" ext=""/>
+    </block>
+  </node>
+</tmpl>

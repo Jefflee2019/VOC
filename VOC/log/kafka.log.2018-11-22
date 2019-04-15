@@ -1,0 +1,45 @@
+[INFO ] 2018-11-22 18:25:57,937 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:25:57,979 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:25:57,979 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:25:58,571 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:25:58,571 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:25:58,571 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-11-22 18:26:02,892 - ParseUtils:46 : url:https://uae.souq.com/ae-en/mobile-phone/huawei/new/a-7-c/l/?ref=nav&sortby=sr&section=2&page=1 tasks size 90
+[INFO ] 2018-11-22 18:26:02,971 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-11-22 18:26:02,973 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-11-22 18:26:02,973 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-11-22 18:26:02,999 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-11-22 18:26:02,999 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-11-22 18:26:03,000 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-11-22 18:26:03,001 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-11-22 18:26:03,078 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-11-22 18:26:51,496 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:26:51,498 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:26:51,499 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:26:51,623 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:26:51,623 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:26:51,624 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-11-22 18:31:50,705 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:31:50,708 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:31:50,708 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:31:50,818 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:31:50,819 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:31:50,819 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-11-22 18:35:07,652 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:35:07,657 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:35:07,657 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:35:07,806 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:35:07,807 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:35:07,807 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-11-22 18:40:34,387 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:40:34,390 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:40:34,390 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:40:34,483 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:40:34,484 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:40:34,484 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-11-22 18:43:44,368 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-11-22 18:43:44,372 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-11-22 18:43:44,373 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-11-22 18:43:44,464 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-11-22 18:43:44,464 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-11-22 18:43:44,464 - DomCFGField:106 : createTask: name :itemname

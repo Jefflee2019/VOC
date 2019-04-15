@@ -1,0 +1,12 @@
+
+<tmpl path="">
+  <node path="div@J_searchWrap@w@5/div@J_container@container@1/div@J_main@g-main2@1/div@@m-list@0/div@@ml-wrap@0">
+    <fld name="pagecount" path="div@J_filter@filter@0/div@@f-line top@0/div@J_topPage@f-pager@3/span@@fp-text@0/i@@@0" multi="" ext=""/>
+    <fld name="pageno" path="div@J_filter@filter@0/div@@f-line top@0/div@J_topPage@f-pager@3/span@@fp-text@0/b@@@0" multi="" ext=""/>
+    <block path="div@J_goodsList@goods-list-v2 gl-type-1 J-goods-list@1/ul@@gl-warp clearfix@0/li@@gl-item@*" name="items">
+      <fld name="itemlink" path="div@@gl-i-wrap@0/div@@p-name p-name-type-2@2/a@@@0" multi="" ext="" link="true" linkType="wlmEcContent" createTask="1"/>
+      <fld name="itemname" path="div@@gl-i-wrap@0/div@@p-name p-name-type-2@2" multi="" ext=""/>
+      <fld name="itemprice" path="div@@gl-i-wrap@0/div@@p-price@1/strong@@@0/i@@@0" multi="" ext=""/>
+    </block>
+  </node>
+</tmpl>

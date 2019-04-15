@@ -1,0 +1,76 @@
+[INFO ] 2018-12-20 14:46:02,352 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 14:46:02,357 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 14:46:02,358 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 14:46:02,462 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 14:46:02,463 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 14:46:02,465 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:46:02,465 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:46:02,466 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 14:46:02,466 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 14:46:02,467 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:46:02,467 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 14:46:02,468 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 14:46:03,099 - DomSearch:948 : null Missing field: nextpage rp:["div@@row@1","div@@col-sm-12@0","div@@pagination-container@0","nav@@@0","ul@@pagination@0","li@@@2","a@@is-disabled@0"]
+[ERROR] 2018-12-20 14:46:03,258 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@catalog-container catalog-celulares  @0]
+[INFO ] 2018-12-20 14:46:03,289 - DomSearch:657 : null Missing field: items
+[INFO ] 2018-12-20 14:58:50,549 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 14:58:50,551 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 14:58:50,552 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 14:58:50,649 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 14:58:50,650 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 14:58:50,651 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:58:50,651 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:58:50,652 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 14:58:50,652 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 14:58:50,652 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 14:58:50,653 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 14:58:50,653 - DomCFGField:106 : createTask: name :itemname
+[WARN ] 2018-12-20 14:58:50,986 - URLNormalizerClient:49 : main Invalid url while normalizing, url=null, cid=null, baseurl=http://simple.ripley.com.pe/computo/tablets/tablets?facet=mfName_ntk_cs%253A%2522SAMSUNG%2522
+[INFO ] 2018-12-20 14:58:51,192 - DomSearch:948 : null Missing field: nextpage rp:["div@@row@1","div@@col-sm-12@0","div@@pagination-container@0","nav@@@0","ul@@pagination@0","li@@@3","a@@@0"]
+[ERROR] 2018-12-20 14:58:51,250 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@catalog-container catalog-celulares  @0]
+[INFO ] 2018-12-20 14:58:51,266 - DomSearch:657 : null Missing field: items
+[INFO ] 2018-12-20 15:14:24,776 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 15:14:24,778 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 15:14:24,779 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 15:14:24,875 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 15:14:24,875 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 15:14:24,876 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:14:24,877 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:14:24,877 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 15:14:24,877 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 15:14:24,877 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:14:24,877 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 15:14:24,878 - DomCFGField:106 : createTask: name :itemname
+[WARN ] 2018-12-20 15:14:25,243 - URLNormalizerClient:49 : main Invalid url while normalizing, url=null, cid=null, baseurl=http://simple.ripley.com.pe/computo/tablets/tablets?facet=mfName_ntk_cs%253A%2522SAMSUNG%2522
+[INFO ] 2018-12-20 15:14:25,444 - DomSearch:948 : null Missing field: nextpage rp:["div@@row@1","div@@col-sm-12@0","div@@pagination-container@0","nav@@@0","ul@@pagination@0","li@@@3","a@@@0"]
+[ERROR] 2018-12-20 15:14:25,502 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@catalog-container catalog-celulares  @0]
+[INFO ] 2018-12-20 15:14:25,524 - DomSearch:657 : null Missing field: items
+[INFO ] 2018-12-20 15:16:13,897 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 15:16:13,901 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 15:16:13,901 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 15:16:14,026 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 15:16:14,026 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-12-20 15:16:14,028 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:16:14,028 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:16:14,028 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 15:16:14,029 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 15:16:14,029 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-20 15:16:14,029 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 15:16:14,030 - DomCFGField:106 : createTask: name :itemname
+[WARN ] 2018-12-20 15:16:14,356 - URLNormalizerClient:49 : main Invalid url while normalizing, url=null, cid=null, baseurl=https://simple.ripley.com.pe/computo/tablets/tablets?facet=mfName_ntk_cs%253A%2522SAMSUNG%2522
+[INFO ] 2018-12-20 15:16:14,567 - DomSearch:948 : null Missing field: nextpage rp:["div@@row@1","div@@col-sm-12@0","div@@pagination-container@0","nav@@@0","ul@@pagination@0","li@@@3","a@@@0"]
+[ERROR] 2018-12-20 15:16:14,623 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@catalog-container catalog-celulares  @0]
+[INFO ] 2018-12-20 15:16:14,638 - DomSearch:657 : null Missing field: items
+[INFO ] 2018-12-20 17:14:29,675 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 17:14:29,678 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 17:14:29,678 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 17:14:29,775 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 17:14:29,776 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 17:16:16,708 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 17:16:16,711 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 17:16:16,711 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-20 17:16:16,809 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-20 17:16:16,809 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-20 18:19:21,239 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-20 18:19:21,241 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-20 18:19:21,242 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true

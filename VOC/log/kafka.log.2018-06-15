@@ -1,0 +1,42 @@
+[INFO ] 2018-06-15 16:50:35,128 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-15 16:50:35,188 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-15 16:50:35,189 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-15 16:50:35,899 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-15 16:50:35,899 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-15 16:50:35,900 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-15 16:50:35,900 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-15 16:50:35,900 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-15 16:50:35,903 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-15 16:50:36,508 - ParseUtils:46 : url:http://finance.ynet.com/2018/06/12/1250016t632.html tasks size 0
+[INFO ] 2018-06-15 16:50:56,666 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-15 16:50:56,669 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-15 16:50:56,669 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-15 16:50:56,800 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-15 16:50:56,808 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-15 16:50:56,809 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-15 16:50:56,809 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-15 16:50:57,290 - ParseUtils:46 : url:http://finance.ynet.com/2018/06/12/1250016t632.html tasks size 0
+[INFO ] 2018-06-15 16:51:36,621 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-15 16:51:36,624 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-15 16:51:36,625 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-15 16:51:36,735 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-15 16:51:36,735 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-15 16:51:36,735 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-15 16:51:36,736 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-15 16:51:37,248 - ParseUtils:46 : url:http://finance.ynet.com/2018/06/12/1250016t632.html tasks size 0
+[INFO ] 2018-06-15 16:52:04,377 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-15 16:52:04,380 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-15 16:52:04,380 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-15 16:52:04,478 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-15 16:52:04,478 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-15 16:52:04,479 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-15 16:52:04,479 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-15 16:52:04,860 - ParseUtils:46 : url:http://m.ynet.com/xiongzhang/18602382.html tasks size 0
+[INFO ] 2018-06-15 16:53:19,357 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-15 16:53:19,360 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-15 16:53:19,360 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-15 16:53:19,472 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-15 16:53:19,473 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-15 16:53:19,473 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-15 16:53:19,474 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-15 16:53:19,931 - ParseUtils:46 : url:http://finance.ynet.com/2018/06/12/1250016t632.html tasks size 0

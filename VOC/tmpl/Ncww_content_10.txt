@@ -1,0 +1,11 @@
+<tmpl path="">
+  <node path="main@@@0/section@@container@0/div@@row row2@1/div@@col-md-8 ht-wz@0">
+    <node path="div@@col-md-12@2">
+      <fld name="author" path="" multi="" ext=""/>
+      <fld name="post_time" path="" multi="" ext=""/>
+      <fld name="source" path="" multi="" ext=""/>
+    </node>
+    <fld name="title" path="div@@title@0/h1@@@0" multi="" ext=""/>
+    <fld name="content" path="div@divContentDiv@text@7" multi="" ext=""/>
+  </node>
+</tmpl>

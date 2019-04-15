@@ -1,0 +1,8 @@
+<tmpl path="">
+<block path="div@main_wrapper@gidContainer@2/div@contenidos@plp@0/div@@grid-container@1/div@@grid-80 tablet-grid-80@1/div@@products-list@3/ul@@@0/li@@product-cell@*" name="items">
+<fld name="itemlink" path="a@@product-name@2" multi="" ext="" link="true" linkType="eccontent" createTask="1"/>
+<fld name="itemname" path="a@@product-name@2/span@@@0" multi="" ext=""/>
+<fld name="itemprice" path="div@@subset-pricing plp-prices@1/span@@product-price@0/p@@precio-promocion@1/span@@@0/span@@currency-symbol@1" multi="" ext=""/>
+<fld name="itemprice" path="div@@subset-pricing plp-prices@1/span@@product-price@0/p@@precio-especial@0/span@@@0/span@@currency-symbol@1" multi="" ext=""/>
+</block>
+</tmpl>

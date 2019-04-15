@@ -1,0 +1,70 @@
+[INFO ] 2017-11-01 16:26:39,070 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 16:26:39,082 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 16:26:39,083 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 16:26:40,071 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 16:26:40,072 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 16:26:40,073 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 16:26:40,082 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-01 16:26:40,965 - ParseUtils:46 : url:https://item.jd.com/11225432781.html?price=78.00 tasks size 0
+[INFO ] 2017-11-01 16:27:03,275 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 16:27:03,279 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 16:27:03,280 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 16:27:03,376 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 16:27:03,377 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 16:27:03,377 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 16:27:03,378 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-01 16:29:34,855 - ParseUtils:46 : url:https://item.jd.com/11225432781.html?price=78.00 tasks size 0
+[INFO ] 2017-11-01 16:29:57,224 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 16:29:57,229 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 16:29:57,230 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 16:29:57,337 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 16:29:57,337 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 16:29:57,338 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 16:29:57,338 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-01 16:32:22,207 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 16:32:22,212 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 16:32:22,212 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 16:32:22,303 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 16:32:22,303 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 16:32:22,303 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 16:32:22,304 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-11-01 17:15:11,468 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 17:15:11,470 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 17:15:11,470 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 17:15:11,560 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-11-01 17:15:11,561 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 17:35:43,332 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 17:35:43,335 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 17:35:43,335 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 17:35:43,454 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 17:35:43,454 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 17:35:43,454 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 17:35:43,454 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 17:35:43,455 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-11-01 17:35:44,056 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 17:35:44,057 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 17:35:44,060 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-11-01 17:35:44,063 - ParseUtils:46 : url:https://product.suning.com/0070145574/605088930.html tasks size 0
+[INFO ] 2017-11-01 18:22:36,595 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 18:22:36,598 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 18:22:36,599 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 18:22:36,725 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 18:22:36,725 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 18:22:36,726 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 18:22:36,726 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 18:22:36,727 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-11-01 18:22:37,406 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 18:22:37,407 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 18:22:37,410 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-11-01 18:24:58,579 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-11-01 18:24:58,582 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-11-01 18:24:58,582 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-11-01 18:24:58,715 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 18:24:58,715 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-11-01 18:24:58,715 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-11-01 18:24:58,716 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-11-01 18:24:58,717 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-11-01 18:24:59,444 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 18:24:59,445 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-11-01 18:24:59,448 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-11-01 18:40:32,614 - ParseUtils:46 : url:https://product.suning.com/0070145574/605088930.html tasks size 0

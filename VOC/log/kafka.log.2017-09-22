@@ -1,0 +1,17 @@
+[INFO ] 2017-09-22 11:11:32,338 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-22 11:11:32,344 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-22 11:11:32,345 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-22 11:11:32,360 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000132275182_0070064883_755_7550101_54.8_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-22 11:11:32,360 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-22 11:12:41,070 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-22 11:12:41,072 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-22 11:12:41,073 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-22 11:12:41,176 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-09-22 11:12:41,176 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-09-22 11:12:41,176 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-09-22 11:12:41,176 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-09-22 11:12:41,177 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-09-22 11:12:41,797 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-09-22 11:12:41,797 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-09-22 11:12:41,801 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-09-22 11:12:41,980 - ParseUtils:46 : url:https://product.suning.com/0070064883/132275182.html tasks size 0

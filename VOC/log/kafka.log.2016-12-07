@@ -1,0 +1,403 @@
+[INFO ] 2016-12-07 14:38:58,358 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 14:38:58,363 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 14:38:58,364 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 14:38:58,785 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 14:38:58,785 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 14:38:58,785 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 14:38:58,786 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 14:38:58,786 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 14:38:58,786 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 14:38:58,786 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 14:38:58,787 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 14:38:58,803 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 14:38:58,804 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 14:38:58,804 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 14:38:58,805 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 14:38:58,805 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 14:38:58,805 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 14:38:58,805 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 14:38:58,806 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 14:38:58,806 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 14:38:58,806 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 14:38:58,806 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 14:38:58,806 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 14:38:58,807 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 14:38:58,807 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 14:38:58,807 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 14:38:58,807 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 14:38:58,807 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 14:38:58,808 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 14:38:58,808 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 14:38:59,412 - DomSearch:948 : null Missing field: best_content rp:["p@@@0","em@@@0","span@@@0"]
+[INFO ] 2016-12-07 14:38:59,439 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 15:15:08,278 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 15:15:08,287 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 15:15:08,298 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 15:15:08,420 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 15:15:08,421 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 15:15:08,421 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 15:15:08,421 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 15:15:08,421 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 15:15:08,422 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 15:15:08,422 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 15:15:08,422 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 15:15:08,423 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 15:15:08,423 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 15:15:08,423 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 15:15:08,424 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 15:15:08,424 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 15:15:08,424 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 15:15:08,424 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 15:15:08,425 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 15:15:08,425 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 15:15:08,425 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 15:15:08,425 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 15:15:08,425 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 15:15:08,426 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 15:15:08,426 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 15:15:08,426 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 15:15:08,427 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 15:15:08,427 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 15:15:08,427 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 15:15:08,428 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 16:41:55,085 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 16:41:55,087 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 16:41:55,087 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 16:41:55,173 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 16:41:55,173 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 16:41:55,174 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 16:41:55,174 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 16:41:55,174 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 16:41:55,174 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 16:41:55,174 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 16:41:55,175 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 16:41:55,175 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 16:41:55,176 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 16:41:55,176 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 16:41:55,176 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 16:41:55,176 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 16:41:55,176 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 16:41:55,177 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 16:41:55,177 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 16:41:55,177 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 16:41:55,177 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 16:41:55,178 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 16:41:55,178 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 16:41:55,178 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 16:41:55,178 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 16:41:55,178 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 16:41:55,179 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 16:41:55,179 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 16:41:55,179 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 16:41:55,179 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 16:41:55,757 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 16:44:58,363 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 16:44:58,368 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 16:44:58,368 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 16:44:58,477 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 16:44:58,478 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 16:44:58,478 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 16:44:58,479 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 16:44:58,479 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 16:44:58,479 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 16:44:58,479 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 16:44:58,479 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 16:44:58,481 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 16:44:58,481 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 16:44:58,481 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 16:44:58,482 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 16:44:58,482 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 16:44:58,483 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 16:44:58,483 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 16:44:58,483 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 16:44:58,483 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 16:44:58,484 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 16:44:58,484 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 16:44:58,485 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 16:44:58,485 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 16:44:58,485 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 16:44:58,485 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 16:44:58,486 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 16:44:58,486 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 16:44:58,486 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 16:44:58,486 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 16:44:59,153 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 16:45:44,136 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 16:45:44,140 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 16:45:44,141 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 16:45:44,245 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 16:45:44,245 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 16:45:44,245 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 16:45:44,246 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 16:45:44,246 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 16:45:44,246 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 16:45:44,246 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 16:45:44,247 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 16:45:44,247 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 16:45:44,248 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 16:45:44,248 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 16:45:44,248 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 16:45:44,248 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 16:45:44,248 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 16:45:44,249 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 16:45:44,249 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 16:45:44,249 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 16:45:44,249 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 16:45:44,249 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 16:45:44,250 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 16:45:44,250 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 16:45:44,250 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 16:45:44,250 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 16:45:44,250 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 16:45:44,251 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 16:45:44,251 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 16:45:44,251 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 16:45:44,889 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 16:50:14,967 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 16:50:14,974 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 16:50:14,974 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 16:50:15,076 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 16:50:15,077 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 16:50:15,077 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 16:50:15,078 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 16:50:15,078 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 16:50:15,078 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 16:50:15,079 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 16:50:15,079 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 16:50:15,080 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 16:50:15,081 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 16:50:15,081 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 16:50:15,081 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 16:50:15,081 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 16:50:15,082 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 16:50:15,082 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 16:50:15,082 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 16:50:15,083 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 16:50:15,083 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 16:50:15,083 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 16:50:15,084 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 16:50:15,084 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 16:50:15,084 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 16:50:15,085 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 16:50:15,085 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 16:50:15,086 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 16:50:15,086 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 16:50:15,086 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 16:50:15,752 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 17:12:44,836 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 17:12:44,839 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 17:12:44,839 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 17:12:44,933 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 17:12:44,934 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 17:12:44,934 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 17:12:44,935 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 17:12:44,935 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 17:12:44,935 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 17:12:44,935 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 17:12:44,935 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 17:12:44,936 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 17:12:44,937 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 17:12:44,937 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 17:12:44,937 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 17:12:44,937 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 17:12:44,937 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 17:12:44,938 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 17:12:44,938 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 17:12:44,938 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 17:12:44,938 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 17:12:44,939 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 17:12:44,939 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 17:12:44,939 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 17:12:44,939 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 17:12:44,939 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 17:12:44,940 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 17:12:44,940 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 17:12:44,940 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 17:12:44,940 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 17:12:45,532 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 17:23:20,860 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 17:23:20,865 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 17:23:20,865 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 17:23:20,970 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 17:23:20,970 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 17:23:20,970 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 17:23:20,971 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 17:23:20,971 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 17:23:20,971 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 17:23:20,971 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 17:23:20,971 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 17:23:20,972 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 17:23:20,973 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 17:23:20,973 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 17:23:20,974 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 17:23:20,974 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 17:23:20,974 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 17:23:20,975 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 17:23:20,975 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 17:23:20,975 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 17:23:20,975 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 17:23:20,976 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 17:23:20,976 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 17:23:20,976 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 17:23:20,977 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 17:23:20,977 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 17:23:20,977 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 17:23:20,978 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 17:23:20,978 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 17:23:20,978 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 17:23:21,645 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 18:08:38,168 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 18:08:38,172 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 18:08:38,173 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 18:08:38,278 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 18:08:38,278 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 18:08:38,278 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 18:08:38,279 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 18:08:38,279 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 18:08:38,279 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 18:08:38,279 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 18:08:38,279 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 18:08:38,280 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 18:08:38,280 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 18:08:38,281 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 18:08:38,281 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 18:08:38,281 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 18:08:38,281 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 18:08:38,282 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 18:08:38,282 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 18:08:38,282 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 18:08:38,282 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 18:08:38,282 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 18:08:38,283 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 18:08:38,283 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 18:08:38,283 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 18:08:38,283 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 18:08:38,284 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 18:08:38,284 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 18:08:38,284 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 18:08:38,290 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 18:08:38,904 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 18:09:51,578 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 18:09:51,582 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 18:09:51,582 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 18:09:51,691 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 18:09:51,692 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 18:09:51,692 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 18:09:51,692 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 18:09:51,693 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 18:09:51,693 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 18:09:51,694 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 18:09:51,694 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 18:09:51,695 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 18:09:51,696 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 18:09:51,696 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 18:09:51,696 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 18:09:51,697 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 18:09:51,697 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 18:09:51,698 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 18:09:51,698 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 18:09:51,698 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 18:09:51,698 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 18:09:51,699 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 18:09:51,699 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 18:09:51,699 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 18:09:51,699 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 18:09:51,700 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 18:09:51,700 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 18:09:51,700 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 18:09:51,700 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 18:09:51,700 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 18:09:52,271 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 18:10:23,188 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 18:10:23,193 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 18:10:23,193 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 18:10:23,300 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 18:10:23,301 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 18:10:23,301 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 18:10:23,301 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 18:10:23,302 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 18:10:23,302 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 18:10:23,302 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 18:10:23,303 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 18:10:23,304 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 18:10:23,304 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 18:10:23,304 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 18:10:23,305 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 18:10:23,305 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 18:10:23,305 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 18:10:23,305 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 18:10:23,305 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 18:10:23,306 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 18:10:23,306 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 18:10:23,306 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 18:10:23,306 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 18:10:23,307 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 18:10:23,307 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 18:10:23,307 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 18:10:23,307 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 18:10:23,307 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 18:10:23,308 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 18:10:23,308 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 18:10:23,947 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 18:21:47,625 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 18:21:47,628 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 18:21:47,628 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 18:21:47,717 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 18:21:47,718 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 18:21:47,718 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 18:21:47,718 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 18:21:47,718 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 18:21:47,719 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 18:21:47,719 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 18:21:47,719 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 18:21:47,721 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 18:21:47,721 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 18:21:47,721 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 18:21:47,722 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 18:21:47,722 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 18:21:47,722 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 18:21:47,722 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 18:21:47,722 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 18:21:47,723 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 18:21:47,724 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 18:21:47,724 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 18:21:47,724 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 18:21:47,724 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 18:21:47,724 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 18:21:48,327 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]
+[INFO ] 2016-12-07 18:26:38,051 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-07 18:26:38,056 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-07 18:26:38,057 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-07 18:26:38,167 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-07 18:26:38,168 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-07 18:26:38,168 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-07 18:26:38,168 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-07 18:26:38,168 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-07 18:26:38,168 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-07 18:26:38,169 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-07 18:26:38,169 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-07 18:26:38,170 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-07 18:26:38,170 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-07 18:26:38,170 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-07 18:26:38,171 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-07 18:26:38,171 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-07 18:26:38,171 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-07 18:26:38,171 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-07 18:26:38,171 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-07 18:26:38,172 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-07 18:26:38,172 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-07 18:26:38,172 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-07 18:26:38,172 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-07 18:26:38,172 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-07 18:26:38,173 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-07 18:26:38,173 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-07 18:26:38,173 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-07 18:26:38,173 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-07 18:26:38,173 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-07 18:26:38,174 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-07 18:26:38,848 - DomSearch:948 : null Missing field: reply_fans_cnt rp:["div@@pct@1","div@@pcb@0","div@@@0","table@@@0","tbody@@@0","tr@@@0","td@@t_f@0","i@@pstatus@0"]

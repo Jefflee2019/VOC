@@ -1,0 +1,62 @@
+[INFO ] 2016-12-30 09:26:28,423 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-30 09:26:28,426 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-30 09:26:28,426 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-30 09:26:28,511 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-30 09:26:28,511 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-30 09:26:28,511 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-30 09:26:28,511 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-30 09:26:28,512 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-30 09:26:28,512 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-30 09:26:28,512 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-30 09:26:28,512 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-30 09:26:28,513 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-30 09:26:28,513 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-30 09:26:28,513 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-30 09:26:28,514 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-30 09:26:28,514 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-30 09:26:28,514 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-30 09:26:28,514 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-30 09:26:28,514 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-30 09:26:28,515 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-30 09:26:28,515 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-30 09:26:28,515 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-30 09:26:28,515 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-30 09:26:28,515 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-30 09:26:28,516 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-30 09:26:28,516 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-30 09:26:28,516 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-30 09:26:28,516 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-30 09:26:28,516 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-30 09:26:28,517 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-30 09:26:28,715 - TextUtil:357 : url:http://cn.club.vmall.com/thread-11350978-1-1.html use encode utf-8
+[INFO ] 2016-12-30 09:34:26,468 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2016-12-30 09:34:26,471 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2016-12-30 09:34:26,471 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2016-12-30 09:34:26,560 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2016-12-30 09:34:26,560 - DomCFGField:106 : createTask: name :popularity
+[INFO ] 2016-12-30 09:34:26,561 - DomCFGField:106 : createTask: name :prestige
+[INFO ] 2016-12-30 09:34:26,561 - DomCFGField:106 : createTask: name :partake_cnt
+[INFO ] 2016-12-30 09:34:26,561 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2016-12-30 09:34:26,561 - DomCFGField:106 : createTask: name :reply_fans_cnt
+[INFO ] 2016-12-30 09:34:26,561 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2016-12-30 09:34:26,562 - DomCFGField:106 : createTask: name :best_content
+[INFO ] 2016-12-30 09:34:26,562 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2016-12-30 09:34:26,563 - DomCFGField:106 : createTask: name :author_avatar
+[INFO ] 2016-12-30 09:34:26,563 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2016-12-30 09:34:26,563 - DomCFGField:106 : createTask: name :collection_cnt
+[INFO ] 2016-12-30 09:34:26,563 - DomCFGField:106 : createTask: name :up_cnt
+[INFO ] 2016-12-30 09:34:26,563 - DomCFGField:106 : createTask: name :down_cnt
+[INFO ] 2016-12-30 09:34:26,564 - DomCFGField:106 : createTask: name :refer_comment
+[INFO ] 2016-12-30 09:34:26,564 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2016-12-30 09:34:26,564 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2016-12-30 09:34:26,564 - DomCFGField:106 : createTask: name :reply_level
+[INFO ] 2016-12-30 09:34:26,564 - DomCFGField:106 : createTask: name :best_author_name
+[INFO ] 2016-12-30 09:34:26,565 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2016-12-30 09:34:26,565 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2016-12-30 09:34:26,565 - DomCFGField:106 : createTask: name :reply_up_cnt
+[INFO ] 2016-12-30 09:34:26,565 - DomCFGField:106 : createTask: name :reply_down_cnt
+[INFO ] 2016-12-30 09:34:26,565 - DomCFGField:106 : createTask: name :title
+[INFO ] 2016-12-30 09:34:26,566 - DomCFGField:106 : createTask: name :replycount
+[INFO ] 2016-12-30 09:34:26,566 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2016-12-30 09:34:26,566 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2016-12-30 09:34:26,700 - TextUtil:357 : url:http://cn.club.vmall.com/thread-11694726-1-1.html use encode utf-8

@@ -1,0 +1,8 @@
+<tmpl path="">
+  <node path="div@cMain@c-main@3/div@contentList@cont-warpper clearfix@0/div@@content-left cont-set-p c-w-720 cont-t-b@1">
+    <block name="items" path="ul@@@0/div@@c-container@*">
+      <fld name="link" path="h3@@link-set@0/a@@@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/>
+      <fld name="title" path="h3@@link-set@0/a@@@0" multi="" ext=""/>
+    </block>
+  </node>
+</tmpl>

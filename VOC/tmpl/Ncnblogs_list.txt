@@ -1,0 +1,1 @@
+<tmpl path=""><node path="div@main@@2/div@searchResult@@0/div@@forflow@1"><block path="div@@searchItem@*" name="items"><fld name="link" path="h3@@searchItemTitle@0/a@@@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/><fld name="title" path="h3@@searchItemTitle@0/a@@@0" multi="" ext=""/></block></node></tmpl>

@@ -1,0 +1,53 @@
+[INFO ] 2019-03-13 15:08:17,141 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 15:08:17,162 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 15:08:17,163 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 15:08:17,968 - ParseUtils:46 : url:http://news.ifeng.com/c/7kgzoARrK15 tasks size 1
+[INFO ] 2019-03-13 15:08:18,006 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2019-03-13 15:08:18,007 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2019-03-13 15:08:18,007 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2019-03-13 15:08:18,037 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2019-03-13 15:08:18,037 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2019-03-13 15:08:18,039 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2019-03-13 15:08:18,040 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2019-03-13 15:08:18,103 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2019-03-13 15:08:46,421 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 15:08:46,425 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 15:08:46,425 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:08:54,797 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:08:54,802 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:08:54,803 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:08:54,821 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:08:54,821 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2019-03-13 17:08:55,027 - Eextra_saListJson:136 : executeParse error http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei
+[INFO ] 2019-03-13 17:08:55,027 - Eextra_saListJson:137 : goodstList error!
+[INFO ] 2019-03-13 17:10:52,658 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:10:52,661 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:10:52,661 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:10:52,679 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:10:52,679 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2019-03-13 17:10:52,876 - Eextra_saListJson:138 : executeParse error http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei
+[INFO ] 2019-03-13 17:10:52,876 - Eextra_saListJson:139 : goodstList error!
+[INFO ] 2019-03-13 17:12:17,406 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:12:17,409 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:12:17,411 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:12:17,433 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:12:17,434 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2019-03-13 17:12:17,643 - Eextra_saListJson:135 : executeParse error http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei
+[INFO ] 2019-03-13 17:12:17,644 - Eextra_saListJson:136 : goodstList error!
+[INFO ] 2019-03-13 17:27:45,038 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:27:45,041 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:27:45,043 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:27:45,071 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:27:45,072 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2019-03-13 17:27:45,303 - Eextra_saListJson:134 : executeParse error http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei
+[INFO ] 2019-03-13 17:27:45,303 - Eextra_saListJson:135 : goodstList error!
+[INFO ] 2019-03-13 17:34:36,467 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:34:36,471 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:34:36,471 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:34:36,490 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:34:36,490 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2019-03-13 17:40:03,846 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-03-13 17:40:03,849 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-03-13 17:40:03,850 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-13 17:40:03,875 - TextUtil:362 : url:http://www.extrastores.com/en-sa/products/mobiles/ProductListingProducts/smartphones-99500240157?sort=5&BrandID=huawei use chaset gbk
+[ERROR] 2019-03-13 17:40:03,875 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk

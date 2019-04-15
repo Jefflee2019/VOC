@@ -1,0 +1,47 @@
+[INFO ] 2017-06-23 14:40:29,401 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-23 14:40:29,406 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-23 14:40:29,407 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-23 14:40:29,498 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-23 14:40:29,498 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-23 14:40:29,499 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-23 14:40:29,499 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-23 14:40:29,499 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-23 14:40:29,500 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-23 14:40:30,014 - ParseUtils:46 : url:http://news.tom.com/2017-05-16/OLH8/48090515.html tasks size 0
+[INFO ] 2017-06-23 14:41:08,650 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-23 14:41:08,653 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-23 14:41:08,653 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-23 14:41:08,731 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-23 14:41:08,731 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-23 14:41:08,732 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-23 14:41:08,732 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-23 14:41:08,732 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-23 14:41:08,733 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-23 14:41:09,128 - ParseUtils:46 : url:http://news.tom.com/2017-05-16/OLH8/48090515.html tasks size 0
+[INFO ] 2017-06-23 14:41:51,183 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-23 14:41:51,185 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-23 14:41:51,186 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-23 14:41:51,265 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-23 14:41:51,266 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-23 14:41:51,266 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-23 14:41:51,266 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-23 14:41:51,266 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-23 14:41:51,267 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-23 14:42:43,252 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-23 14:42:43,258 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-23 14:42:43,259 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-23 14:42:43,358 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-23 14:42:43,359 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-23 14:42:43,359 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-23 14:42:43,359 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-23 14:42:43,359 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-23 14:42:43,360 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-23 14:45:11,572 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-23 14:45:11,574 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-23 14:45:11,575 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-23 14:45:11,656 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-23 14:45:11,657 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2017-06-23 14:45:11,657 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-23 14:45:11,657 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-23 14:45:11,657 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-23 14:45:11,658 - DomCFGField:106 : createTask: name :cate

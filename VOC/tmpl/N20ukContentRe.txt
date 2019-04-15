@@ -1,0 +1,1 @@
+<tmpl path=""><node path="div@@pro_main@4/div@@pmain_all@1/div@@proall_right prozixundetil@1"><fld name="content" path="div@@zixudetil_jutizixun@1" multi="" ext=""/><node path="div@@zxdetil_fabu@0/span@@@0"><fld name="post_time" path="" multi="" ext=""/><fld name="source" path="" multi="" ext=""/></node><fld name="title" path="h2@@@0" multi="" ext=""/></node></tmpl>

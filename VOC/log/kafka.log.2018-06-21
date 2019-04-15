@@ -1,0 +1,277 @@
+[INFO ] 2018-06-21 15:26:25,999 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 15:26:26,060 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 15:26:26,068 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 15:26:26,884 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 15:26:26,884 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 15:26:26,885 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 15:26:26,885 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 15:26:26,885 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 15:26:26,885 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 15:34:27,953 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 15:34:27,956 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 15:34:27,956 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 15:34:28,050 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 15:34:28,050 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 15:34:28,051 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 15:34:28,051 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 15:34:28,051 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 15:34:28,051 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 15:35:57,821 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 15:35:57,824 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 15:35:57,824 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 15:35:57,919 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 15:35:57,919 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 15:35:57,919 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 15:35:57,919 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 15:35:57,920 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 15:35:57,920 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 15:35:58,524 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 15:35:58,529 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 15:35:58,529 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 15:35:58,529 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 15:35:58,842 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 15:35:58,842 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:35:58,844 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:35:58,844 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 15:35:59,267 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 15:36:27,192 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 15:36:27,194 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 15:36:27,195 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 15:36:27,289 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 15:36:27,289 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 15:36:27,290 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 15:36:27,290 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 15:36:27,290 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 15:36:27,290 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 15:36:27,823 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 15:36:27,827 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 15:36:27,827 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 15:36:27,829 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 15:36:27,837 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 15:36:27,837 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:36:27,838 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:36:27,838 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 15:36:27,876 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 15:37:56,941 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 15:37:56,944 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 15:37:56,945 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 15:37:57,029 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 15:37:57,029 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 15:37:57,030 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 15:37:57,030 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 15:37:57,030 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 15:37:57,031 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 15:37:57,552 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 15:37:57,555 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 15:37:57,555 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 15:37:57,556 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 15:37:57,563 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 15:37:57,563 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:37:57,565 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:37:57,565 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 15:37:57,604 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 15:39:17,735 - AConfig:35 : execute requestConfig tablename is PageDefine
+[WARN ] 2018-06-21 15:39:17,738 - ConfigClient:57 : main exception while calling getconfig method, Err=
+java.lang.NullPointerException
+	at com.bfd.parse.client.ConfigClient.getConfig(ConfigClient.java:55)
+	at com.bfd.parse.config.AConfig.requestConfig(AConfig.java:37)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.requestConfig(PageDefineConfig.java:40)
+	at com.bfd.parse.config.AConfig.<init>(AConfig.java:31)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.<init>(PageDefineConfig.java:24)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.getInstance(PageDefineConfig.java:31)
+	at com.bfd.parse.util.ParseUtils.getIid(ParseUtils.java:55)
+	at com.bfd.parse.reprocess.NcnmoContentRe.process(NcnmoContentRe.java:97)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:103)
+	at com.bfd.parse.test.plugin.CommonTest.testDemo(CommonTest.java:47)
+	at com.bfd.parse.test.plugin.CommonTest.main(CommonTest.java:15)
+[INFO ] 2018-06-21 15:39:18,741 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 15:39:18,745 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 15:39:18,747 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 15:39:18,747 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:39:18,750 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 15:39:18,751 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 15:39:18,752 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:11:44,079 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:11:44,082 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:11:44,082 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:11:44,168 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:11:44,168 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:11:44,169 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:11:44,169 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:11:44,169 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:11:44,170 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:11:44,703 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 0
+[INFO ] 2018-06-21 16:21:50,958 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:21:50,964 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:21:50,964 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:21:51,079 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:21:51,079 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:21:51,079 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:21:51,080 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:21:51,080 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:21:51,080 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:22:12,869 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:22:12,880 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:22:12,882 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:22:12,883 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:22:12,912 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:22:12,914 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:22:12,924 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:22:12,926 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:22:13,063 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:23:33,193 - AConfig:35 : execute requestConfig tablename is PageDefine
+[WARN ] 2018-06-21 16:23:33,199 - ConfigClient:57 : main exception while calling getconfig method, Err=
+java.lang.NullPointerException
+	at com.bfd.parse.client.ConfigClient.getConfig(ConfigClient.java:55)
+	at com.bfd.parse.config.AConfig.requestConfig(AConfig.java:37)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.requestConfig(PageDefineConfig.java:40)
+	at com.bfd.parse.config.AConfig.<init>(AConfig.java:31)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.<init>(PageDefineConfig.java:24)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.getInstance(PageDefineConfig.java:31)
+	at com.bfd.parse.util.ParseUtils.getIid(ParseUtils.java:55)
+	at com.bfd.parse.reprocess.NcnmoContentRe.process(NcnmoContentRe.java:97)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:103)
+	at com.bfd.parse.test.plugin.CommonTest.testDemo(CommonTest.java:47)
+	at com.bfd.parse.test.plugin.CommonTest.main(CommonTest.java:15)
+[INFO ] 2018-06-21 16:23:34,208 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:23:34,240 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:23:34,245 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:23:34,246 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:23:34,257 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:23:34,259 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:23:34,261 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:24:55,289 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:24:55,300 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:24:55,308 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:24:55,309 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:24:55,323 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:24:55,325 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:24:55,329 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:26:17,371 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:26:17,377 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:26:17,383 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:26:17,385 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:26:17,394 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:26:17,396 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:26:17,421 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:28:23,555 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:28:23,558 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:28:23,559 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:28:23,655 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:28:23,656 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:28:23,656 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:28:23,656 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:28:23,657 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:28:23,657 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:28:24,213 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:28:24,221 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:28:24,222 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:28:24,222 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:28:24,230 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:28:24,230 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:28:24,231 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:28:24,231 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:28:24,274 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:29:09,164 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:29:09,166 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:29:09,166 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:29:09,254 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:29:09,255 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:29:09,255 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:29:09,255 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:29:09,255 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:29:09,256 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:29:09,769 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:29:09,772 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:29:09,773 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:29:09,773 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:29:09,780 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:29:09,780 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:29:09,781 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:29:09,782 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:29:09,822 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:30:29,888 - AConfig:35 : execute requestConfig tablename is PageDefine
+[WARN ] 2018-06-21 16:30:29,889 - ConfigClient:57 : main exception while calling getconfig method, Err=
+java.lang.NullPointerException
+	at com.bfd.parse.client.ConfigClient.getConfig(ConfigClient.java:55)
+	at com.bfd.parse.config.AConfig.requestConfig(AConfig.java:37)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.requestConfig(PageDefineConfig.java:40)
+	at com.bfd.parse.config.AConfig.<init>(AConfig.java:31)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.<init>(PageDefineConfig.java:24)
+	at com.bfd.parse.config.PageDefine.PageDefineConfig.getInstance(PageDefineConfig.java:31)
+	at com.bfd.parse.util.ParseUtils.getIid(ParseUtils.java:55)
+	at com.bfd.parse.reprocess.NcnmoContentRe.process(NcnmoContentRe.java:91)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:103)
+	at com.bfd.parse.test.plugin.CommonTest.testDemo(CommonTest.java:47)
+	at com.bfd.parse.test.plugin.CommonTest.main(CommonTest.java:15)
+[INFO ] 2018-06-21 16:30:30,890 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:30:30,892 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:30:30,893 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:30:30,894 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:30:30,895 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:30:30,896 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:30:30,896 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:31:19,937 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:31:19,939 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:31:19,939 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:31:20,027 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:31:20,027 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:31:20,027 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:31:20,028 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:31:20,028 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:31:20,029 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:31:20,530 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:31:20,533 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:31:20,533 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:31:20,533 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:31:20,540 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:31:20,541 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:31:20,542 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:31:20,542 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:31:20,582 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:31:36,632 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:31:36,635 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:31:36,635 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:31:36,743 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:31:36,743 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:31:36,743 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:31:36,744 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:31:36,744 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:31:36,744 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:31:37,271 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:31:37,274 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:31:37,275 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:31:37,275 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:31:37,284 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:31:37,285 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:31:37,286 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:31:37,286 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:31:37,333 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:42:07,824 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:42:07,826 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:42:07,827 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:42:07,914 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:42:07,914 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:42:07,914 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:42:07,915 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:42:07,915 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:42:07,915 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:42:08,436 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 1
+[INFO ] 2018-06-21 16:42:08,439 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-06-21 16:42:08,440 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-06-21 16:42:08,440 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-06-21 16:42:08,449 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-06-21 16:42:08,449 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:42:08,450 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-06-21 16:42:08,451 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-06-21 16:42:08,497 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-06-21 16:54:06,911 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-06-21 16:54:06,914 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-06-21 16:54:06,915 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-06-21 16:54:07,004 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-06-21 16:54:07,004 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-06-21 16:54:07,004 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-06-21 16:54:07,004 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-06-21 16:54:07,005 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-06-21 16:54:07,005 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-06-21 16:54:07,532 - ParseUtils:46 : url:http://www.cnmo.com/news/136408.html tasks size 0

@@ -1,0 +1,117 @@
+[INFO ] 2017-10-23 14:05:10,947 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 14:05:10,956 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 14:05:10,957 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 14:05:11,570 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 14:05:11,571 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 14:05:11,572 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 14:05:11,573 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 14:05:34,080 - ParseUtils:46 : url:http://item.feiniu.com/90301847010 tasks size 0
+[INFO ] 2017-10-23 14:06:08,751 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 14:06:08,755 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 14:06:08,755 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 14:06:08,849 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 14:06:08,849 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 14:06:08,849 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 14:06:08,850 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 14:08:08,913 - ParseUtils:46 : url:http://item.feiniu.com/90301847010 tasks size 0
+[INFO ] 2017-10-23 14:32:02,636 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 14:32:02,640 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 14:32:02,640 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 14:32:02,741 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 14:32:02,741 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 14:32:02,741 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 14:32:02,742 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 14:45:49,259 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 14:45:49,261 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 14:45:49,262 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 14:45:49,343 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 14:45:49,375 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 14:45:49,375 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 14:45:49,380 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 14:47:25,663 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 14:47:25,669 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 14:47:25,669 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 14:47:25,814 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 14:47:25,815 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 14:47:25,815 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 14:47:25,816 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 14:48:35,017 - ParseUtils:46 : url:http://item.feiniu.com/90301847010 tasks size 0
+[INFO ] 2017-10-23 15:00:11,723 - ParseUtils:46 : url:http://item.feiniu.com/90301847010 tasks size 0
+[INFO ] 2017-10-23 15:31:26,873 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:31:26,877 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:31:26,877 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:31:26,887 - TextUtil:362 : url:http://item.feiniu.com/promotion/90301847010/204373?guid=&isNeedPromotion=1&isPromotion=0&showPromotion=1 use chaset utf8
+[ERROR] 2017-10-23 15:31:26,887 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-23 15:31:27,075 - Efeiniu_wlmContentJson:81 : json parse error or json is null
+[INFO ] 2017-10-23 15:32:53,852 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:32:53,856 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:32:53,857 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:32:53,873 - TextUtil:362 : url:http://item.feiniu.com/getProductCommentVo?goodsId=PS11709300167515&v=1508726580000 use chaset utf8
+[ERROR] 2017-10-23 15:32:53,874 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-10-23 15:32:54,041 - Efeiniu_wlmContentJson:59 : AMJsonParse exception,taskdat url=http://item.feiniu.com/getProductCommentVo?goodsId=PS11709300167515&v=1508726580000.jsonUrl:http://item.feiniu.com/getProductCommentVo?goodsId=PS11709300167515&v=1508726580000
+java.lang.NullPointerException
+	at com.bfd.parse.json.Efeiniu_wlmContentJson.executeParse(Efeiniu_wlmContentJson.java:98)
+	at com.bfd.parse.json.Efeiniu_wlmContentJson.parse(Efeiniu_wlmContentJson.java:55)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Efeiniu_wlmContentJsonTest.testDemo(Efeiniu_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Efeiniu_wlmContentJsonTest.main(Efeiniu_wlmContentJsonTest.java:14)
+[INFO ] 2017-10-23 15:35:55,051 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:35:55,054 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:35:55,054 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:35:55,064 - TextUtil:362 : url:http://item.feiniu.com/getProductCommentVo?goodsId=PS11709300167515&v=1508726580000 use chaset utf8
+[ERROR] 2017-10-23 15:35:55,065 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:38:30,068 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:38:30,074 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:38:30,075 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:38:30,091 - TextUtil:362 : url:http://item.feiniu.com/getProductCommentVo?goodsId=101295945&v=1508726591000 use chaset utf8
+[ERROR] 2017-10-23 15:38:30,091 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:39:19,983 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:39:19,989 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:39:19,990 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:39:20,017 - TextUtil:362 : url:http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201412CG110000252 use chaset utf8
+[ERROR] 2017-10-23 15:39:20,018 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:49:36,734 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:49:36,738 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:49:36,738 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:49:36,751 - TextUtil:362 : url:http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201412CG110000252 use chaset utf8
+[ERROR] 2017-10-23 15:49:36,751 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:49:57,805 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:49:57,810 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:49:57,810 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:49:57,821 - TextUtil:362 : url:http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201603CG110000323 use chaset utf8
+[ERROR] 2017-10-23 15:49:57,822 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-10-23 15:49:57,978 - Efeiniu_wlmContentJson:59 : AMJsonParse exception,taskdat url=http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201603CG110000323.jsonUrl:http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201603CG110000323
+java.lang.NullPointerException
+	at com.bfd.parse.json.Efeiniu_wlmContentJson.executeParse(Efeiniu_wlmContentJson.java:221)
+	at com.bfd.parse.json.Efeiniu_wlmContentJson.parse(Efeiniu_wlmContentJson.java:55)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Efeiniu_wlmContentJsonTest.testDemo(Efeiniu_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Efeiniu_wlmContentJsonTest.main(Efeiniu_wlmContentJsonTest.java:14)
+[INFO ] 2017-10-23 15:50:16,809 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:50:16,813 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:50:16,814 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:50:16,836 - TextUtil:362 : url:http://item.feiniu.com/query_detail_page_activity?sku_seq=KS1201603CG110000323 use chaset utf8
+[ERROR] 2017-10-23 15:50:16,836 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:57:11,826 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:57:11,835 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:57:11,835 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:57:11,856 - TextUtil:362 : url:http://item.feiniu.com/price_qty_sku?sku_seqs=KS1170590300439846 use chaset utf8
+[ERROR] 2017-10-23 15:57:11,856 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 15:58:58,784 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 15:58:58,793 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 15:58:58,793 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 15:58:58,817 - TextUtil:362 : url:http://item.feiniu.com/getProductPriceStock?skuId=90301847010&v=1507865209000 use chaset utf8
+[ERROR] 2017-10-23 15:58:58,817 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 16:00:03,832 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 16:00:03,844 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 16:00:03,844 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 16:00:03,867 - TextUtil:362 : url:http://item.feiniu.com/getProductPriceStock?skuId=90301847010&v=1507865209000 use chaset utf8
+[ERROR] 2017-10-23 16:00:03,868 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-23 17:41:02,662 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-23 17:41:02,664 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-23 17:41:02,665 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-23 17:41:02,748 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-23 17:41:02,748 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-23 17:41:02,749 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-23 17:41:02,749 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-23 17:41:03,303 - ParseUtils:46 : url:http://item.feiniu.com/90301490628 tasks size 0

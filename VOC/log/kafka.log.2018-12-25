@@ -1,0 +1,212 @@
+[INFO ] 2018-12-25 08:59:07,120 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 08:59:07,125 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 08:59:07,126 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 08:59:07,523 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 08:59:07,523 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 08:59:07,524 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 08:59:07,524 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:01:38,253 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:01:38,256 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:01:38,256 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:01:38,622 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:01:38,623 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:01:38,623 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:01:38,624 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2018-12-25 09:01:38,736 - DomSearch:1312 : null Miss Match - 00 at level 0, nodePattern:[div@@wrapper@2]
+[INFO ] 2018-12-25 09:01:38,919 - DomSearch:657 : null Missing field: items
+[INFO ] 2018-12-25 09:13:47,865 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:13:47,870 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:13:47,870 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:13:48,282 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:13:48,283 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:13:48,283 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:13:48,283 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:17:39,351 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:17:39,354 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:17:39,355 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:17:39,764 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:17:39,764 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:17:39,764 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:17:39,764 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:19:34,715 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:19:34,717 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:19:34,718 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:19:35,153 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:19:35,153 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:19:35,153 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:19:35,153 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:22:42,359 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:22:42,362 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:22:42,362 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:22:42,763 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:22:42,764 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:22:42,764 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:22:42,764 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:25:43,177 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:25:43,182 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:25:43,182 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:33:46,650 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:33:46,656 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:33:46,656 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:38:03,756 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:38:03,759 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:38:03,760 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:38:04,066 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:38:04,067 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 09:38:04,067 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 09:38:04,067 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 09:54:02,656 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:54:02,661 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:54:02,662 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 09:59:43,387 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 09:59:43,393 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 09:59:43,393 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:06:21,954 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:06:21,957 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:06:21,957 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:06:22,239 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:06:22,239 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:06:22,240 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:06:22,240 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:07:07,041 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:07:07,045 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:07:07,046 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:07:07,412 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:07,412 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:07,412 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:07:07,412 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:07:27,183 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:07:27,186 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:07:27,186 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:07:27,529 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:27,529 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:27,530 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:07:27,530 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:07:45,075 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:07:45,079 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:07:45,080 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:07:45,423 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:45,424 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:07:45,424 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:07:45,424 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:11:54,558 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:11:54,563 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:11:54,563 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:11:54,888 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:11:54,889 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:11:54,889 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:11:54,889 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:13:40,084 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:13:40,087 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:13:40,087 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:13:40,434 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:13:40,434 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:13:40,435 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:13:40,435 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:14:30,029 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:14:30,032 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:14:30,032 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 10:14:30,359 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:14:30,360 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 10:14:30,360 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 10:14:30,360 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 10:57:01,314 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 10:57:01,319 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 10:57:01,320 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 11:08:14,519 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 11:08:14,524 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 11:08:14,524 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 11:10:06,527 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 11:10:06,531 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 11:10:06,531 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 11:10:06,808 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:10:06,809 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:10:06,809 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 11:10:06,809 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 11:39:19,380 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:39:19,381 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:39:19,381 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 11:39:19,382 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 11:39:42,654 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 11:39:42,657 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 11:39:42,657 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 11:39:42,925 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:39:42,926 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 11:39:42,926 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 11:39:42,926 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 15:14:18,818 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 15:14:18,820 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 15:14:18,821 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 15:14:18,921 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 15:14:18,922 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 15:14:18,922 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 15:14:18,922 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 15:14:19,812 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:19:23,552 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:19:23,557 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:19:23,557 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:19:24,167 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 16:19:24,167 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 16:19:24,167 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 16:19:24,168 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 16:19:24,763 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:20:08,790 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:20:08,795 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:20:08,795 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:20:09,458 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 16:20:09,459 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 16:20:09,459 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 16:20:09,459 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 16:20:10,055 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:21:09,667 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:21:09,672 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:21:09,672 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:22:37,776 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:22:37,780 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:22:37,781 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:28:18,865 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:28:18,868 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:28:18,868 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:28:19,616 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 16:28:19,616 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 16:28:19,617 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 16:28:19,617 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 16:28:20,104 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:28:55,345 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:28:55,350 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:28:55,351 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:48:16,047 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:48:16,049 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:48:16,050 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:48:16,826 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 16:48:16,826 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 16:48:16,827 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 16:48:16,827 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 16:48:17,307 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:55:04,393 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:55:04,397 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:55:04,398 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 16:55:05,078 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 16:55:05,078 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 16:55:05,079 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 16:55:05,079 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 16:55:05,573 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 16:59:52,030 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 16:59:52,036 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 16:59:52,037 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 17:09:34,317 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 17:09:34,320 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 17:09:34,320 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 17:09:35,104 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 17:09:35,104 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 17:09:35,104 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 17:09:35,104 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 17:09:35,568 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]
+[INFO ] 2018-12-25 17:15:32,824 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-12-25 17:15:32,826 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-12-25 17:15:32,826 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-12-25 17:15:33,622 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-12-25 17:15:33,622 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-12-25 17:15:33,622 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-12-25 17:15:33,623 - DomCFGField:106 : createTask: name :itemprice
+[ERROR] 2018-12-25 17:15:34,078 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@grid-80 tablet-grid-80@1]

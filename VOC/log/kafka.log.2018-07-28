@@ -1,0 +1,96 @@
+[INFO ] 2018-07-28 10:46:09,449 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:46:09,458 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:46:09,459 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:46:11,449 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:46:11,450 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:46:11,458 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:46:11,461 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:46:11,461 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:46:11,462 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:46:11,947 - NzhihuzhuanlanContentRe:59 : url:https://zhuanlan.zhihu.com/p/38628783taskdata is https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0newscomment
+[INFO ] 2018-07-28 10:46:12,101 - ParseUtils:46 : url:https://zhuanlan.zhihu.com/p/38628783 tasks size 1
+[INFO ] 2018-07-28 10:46:12,170 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-28 10:46:12,171 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-28 10:46:12,171 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-28 10:46:12,209 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-28 10:46:12,209 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:46:12,210 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:46:12,211 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-28 10:46:12,278 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-28 10:46:35,630 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:46:35,633 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:46:35,633 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:46:35,724 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:46:35,724 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:46:35,725 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:46:35,725 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:46:35,726 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:46:35,726 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:46:36,025 - NzhihuzhuanlanContentRe:59 : url:https://zhuanlan.zhihu.com/p/38628783taskdata is https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0newscomment
+[INFO ] 2018-07-28 10:46:36,027 - ParseUtils:46 : url:https://zhuanlan.zhihu.com/p/38628783 tasks size 1
+[INFO ] 2018-07-28 10:46:36,030 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-28 10:46:36,030 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-28 10:46:36,031 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-28 10:46:36,041 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-28 10:46:36,041 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:46:36,043 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:46:36,044 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-28 10:46:36,084 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-28 10:47:08,113 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:47:08,115 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:47:08,116 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:47:08,203 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:47:08,203 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:47:08,204 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:47:08,204 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:47:08,204 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:47:08,205 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:47:08,523 - NzhihuzhuanlanContentRe:59 : url:https://zhuanlan.zhihu.com/p/38628783taskdata is https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0newscomment
+[INFO ] 2018-07-28 10:49:25,785 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:49:25,789 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:49:25,789 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:49:25,884 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:49:25,884 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:49:25,885 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:49:25,885 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:49:25,886 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:49:25,886 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:50:11,763 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:50:11,765 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:50:11,766 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:50:11,767 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:50:11,767 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:50:11,768 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:50:25,321 - NzhihuzhuanlanContentRe:59 : url:https://zhuanlan.zhihu.com/p/38628783taskdata is https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0newscomment
+[INFO ] 2018-07-28 10:53:04,252 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:53:04,256 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:53:04,256 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:53:04,349 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:53:04,349 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-28 10:53:04,350 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:53:04,350 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-28 10:53:04,351 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:53:04,351 - DomCFGField:106 : createTask: name :source
+[INFO ] 2018-07-28 10:58:50,994 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:58:50,997 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:58:50,997 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:58:51,082 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:58:51,084 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:58:51,084 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:58:51,410 - NzhihuwendaContentRe:60 : url:https://www.zhihu.com/question/280480075/answers/createdtaskdata is https://www.zhihu.com/api/v4/questions/280480075/answers?include=content%2Ccomment_count%2Ccreated_time%2Cvoteup_count&offset=0&limit=20&sort_by=createdhttps://www.zhihu.com/api/v4/questions/280480075/answers?include=content%2Ccomment_count%2Ccreated_time%2Cvoteup_count&offset=0&limit=20&sort_by=creatednewscomment
+[INFO ] 2018-07-28 10:58:51,412 - ParseUtils:46 : url:https://www.zhihu.com/question/280480075/answers/created tasks size 1
+[INFO ] 2018-07-28 10:58:51,416 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-28 10:58:51,432 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-28 10:58:51,432 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-28 10:58:51,443 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-28 10:58:51,444 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:58:51,446 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-28 10:58:51,446 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-28 10:58:51,489 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-28 10:59:16,341 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-28 10:59:16,345 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-28 10:59:16,345 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-28 10:59:16,433 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-28 10:59:16,434 - DomCFGField:106 : createTask: name :keyword
+[INFO ] 2018-07-28 10:59:16,434 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-28 10:59:16,764 - NzhihuwendaContentRe:60 : url:https://www.zhihu.com/question/280480075/answers/createdtaskdata is https://www.zhihu.com/api/v4/questions/280480075/answers?include=content%2Ccomment_count%2Ccreated_time%2Cvoteup_count&offset=0&limit=20&sort_by=createdhttps://www.zhihu.com/api/v4/questions/280480075/answers?include=content%2Ccomment_count%2Ccreated_time%2Cvoteup_count&offset=0&limit=20&sort_by=creatednewscomment

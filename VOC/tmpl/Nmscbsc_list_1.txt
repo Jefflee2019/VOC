@@ -1,0 +1,1 @@
+<tmpl path=""><block path="div@wrap@@0/div@wrap@@1/div@@content@4/table@@@0/tbody@@@0/tr@@@0/td@@@0/div@view_left@@0/div@@category@1/ul@@msgtitlelist3@0/li@@@*" name="items"><fld name="link" path="a@@@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/><fld name="title" path="a@@@0" multi="" ext=""/></block></tmpl>

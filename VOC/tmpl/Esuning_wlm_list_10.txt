@@ -1,0 +1,10 @@
+
+<tmpl path="">
+  <node path="div@@search-main@4">
+    <block path="div@@search-results clearfix mt10@5/div@@results-rblock ml10 @0/div@filter-results@filter-results productMain clearfix @1/ul@@clearfix@0/li@@@*/div@@border-out@0/div@@border-in@0" name="items">
+      <fld name="itemlink" path="div@@wrap@0/div@@res-info@1/p@@sell-point@2/a@@sellPoint@0" multi="" ext="" link="true" linkType="wlmEcContent" createTask="1"/>
+      <fld name="itemname" path="div@@wrap@0/div@@res-info@1/p@@sell-point@2" multi="" ext=""/>
+    </block>
+    <fld name="itemimg" path="div@Py@no-result-tips@2/div@@@0/strong@@@0" multi="" ext=""/>
+  </node>
+</tmpl>

@@ -1,0 +1,17 @@
+[INFO ] 2017-10-17 17:08:26,105 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-17 17:08:26,148 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-17 17:08:26,149 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-17 17:08:26,432 - TextUtil:362 : url:https://p.3.cn/prices/mgets?skuIds=J_4488316&area=22_1930_50946_0 use chaset utf8
+[ERROR] 2017-10-17 17:08:26,433 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-17 17:08:55,211 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-17 17:08:55,225 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-17 17:08:55,225 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-17 17:08:55,248 - TextUtil:362 : url:https://p.3.cn/prices/mgets?skuIds=J_4488316&area=22_1930_50946_0 use chaset utf8
+[ERROR] 2017-10-17 17:08:55,249 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-17 17:13:08,682 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-17 17:13:08,694 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-17 17:13:08,694 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-17 17:13:10,403 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-17 17:13:10,404 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-17 17:13:10,405 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-17 17:13:10,416 - DomCFGField:106 : createTask: name :cate

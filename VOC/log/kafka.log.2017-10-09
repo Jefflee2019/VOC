@@ -1,0 +1,46 @@
+[INFO ] 2017-10-09 10:28:30,740 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 10:28:30,743 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 10:28:30,744 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 10:28:30,912 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-09 10:28:30,913 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-09 10:28:30,917 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-09 10:28:30,917 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-09 10:28:30,918 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-10-09 10:28:31,531 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-10-09 10:28:31,531 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-10-09 10:28:31,534 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-10-09 10:28:31,538 - ParseUtils:46 : url:http://product.suning.com/0000000000/135400443.html tasks size 0
+[INFO ] 2017-10-09 15:46:47,386 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:46:47,389 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:46:47,389 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:46:47,398 - TextUtil:362 : url:http://item.yhd.com/item/ajax/ajaxProductPromotion.do?productID=36135719&merchantID=65071&productMercantID=42248859&uid=aQ8A/0xtV/2pvIuJJ1CFBA==&invokeNormalPromotion=1 use chaset utf8
+[ERROR] 2017-10-09 15:46:47,398 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-09 15:47:24,522 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:47:24,531 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:47:24,531 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:47:24,578 - TextUtil:362 : url:http://item.yhd.com/item/ajax/ajaxProductPromotion.do?productID=36135719&merchantID=65071&productMercantID=42248859&uid=aQ8A/0xtV/2pvIuJJ1CFBA==&invokeNormalPromotion=1 use chaset utf8
+[ERROR] 2017-10-09 15:47:24,579 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-10-09 15:48:58,358 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:48:58,363 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:48:58,363 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:48:58,380 - TextUtil:362 : url:http://pms.yhd.com/detailpage/getVoucherWithProduct.do?&pmid=67213058&productid=57642529&merchantId=224356 use chaset utf8
+[ERROR] 2017-10-09 15:48:58,381 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-09 15:48:58,594 - Eyhd_wlmContentJson:84 : json parse error or json is null
+[INFO ] 2017-10-09 15:49:10,881 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:49:10,893 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:49:10,893 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:49:10,917 - TextUtil:362 : url:http://pms.yhd.com/detailpage/getVoucherWithProduct.do?&pmid=67213058&productid=57642529&merchantId=224356 use chaset utf8
+[ERROR] 2017-10-09 15:49:10,917 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-09 15:49:11,151 - Eyhd_wlmContentJson:84 : json parse error or json is null
+[INFO ] 2017-10-09 15:49:58,590 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:49:58,599 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:49:58,600 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:49:58,631 - TextUtil:362 : url:http://pms.yhd.com/detailpage/getVoucherWithProduct.do?&pmid=67213058&productid=57642529&merchantId=224356 use chaset utf8
+[ERROR] 2017-10-09 15:49:58,631 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-09 15:49:58,829 - Eyhd_wlmContentJson:84 : json parse error or json is null
+[INFO ] 2017-10-09 15:52:55,625 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-09 15:52:55,635 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-09 15:52:55,636 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-09 15:52:55,657 - TextUtil:362 : url:http://pms.yhd.com/detailpage/getVoucherWithProduct.do?&pmid=67213058&productid=57642529&merchantId=224356 use chaset utf8
+[ERROR] 2017-10-09 15:52:55,657 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-10-09 15:52:55,821 - Eyhd_wlmContentJson:84 : json parse error or json is null

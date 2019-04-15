@@ -1,0 +1,11 @@
+<tmpl path="">
+	<node path="div@@thread_list_bottom clearfix@0/div@frs_list_pager@pagination-default clearfix@0">
+		<fld name="nextpage" path="a@@next pagination-item @9" multi="" ext="" link="true" linkType="bbspostlist" createTask="1"/>
+	</node>
+	<block path="ul@thread_list@threadlist_bright j_threadlist_bright@0/li@@ j_thread_list clearfix@*" name="items">
+		<fld name="reply_cnt" path="div@@t_con cleafix@0/div@@col2_left j_threadlist_li_left@0/span@@threadlist_rep_num center_text@0" multi="" ext=""/>
+		<fld name="posttime" path="div@@t_con cleafix@0/div@@col2_right j_threadlist_li_right @1/div@@threadlist_lz clearfix@0/div@@threadlist_author pull_right@1/span@@pull-right is_show_create_time@1" multi="" ext=""/>
+		<fld name="itemlink" path="div@@t_con cleafix@0/div@@col2_right j_threadlist_li_right @1/div@@threadlist_lz clearfix@0/div@@threadlist_title pull_left j_th_tit @0/a@@j_th_tit @0" multi="" ext="" link="true" linkType="bbspost" createTask="1"/>
+		<fld name="itemname" path="div@@t_con cleafix@0/div@@col2_right j_threadlist_li_right @1/div@@threadlist_lz clearfix@0/div@@threadlist_title pull_left j_th_tit @0/a@@j_th_tit@0" multi="" ext=""/>
+	</block>
+</tmpl>

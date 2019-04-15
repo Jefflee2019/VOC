@@ -1,0 +1,101 @@
+[INFO ] 2017-08-16 09:44:36,085 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 09:44:36,095 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 09:44:36,096 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 09:44:36,234 - TextUtil:362 : url:https://p.3.cn/prices/mgets?area=22_1930_50946_0&skuIds=J_1951257521 use chaset utf8
+[ERROR] 2017-08-16 09:44:36,234 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-16 10:06:16,438 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 10:06:16,443 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 10:06:16,444 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 10:06:16,461 - TextUtil:362 : url:https://p.3.cn/prices/mgets?area=19_1607_3155_0&skuIds=J_10625472175 use chaset utf8
+[ERROR] 2017-08-16 10:06:16,461 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-16 11:16:06,391 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:16:06,391 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:16:06,391 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:16:06,611 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:16:06,611 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:16:06,611 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:16:06,611 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 11:16:07,531 - ParseUtils:46 : url:https://search.jd.com/Search?keyword=%E6%96%BD%E5%8D%8E%E8%94%BB%E7%94%B7%E5%A3%AB%E6%8E%A7%E6%B2%B9%E6%B4%97%E5%8F%91200ml&enc=utf-8&page=2 tasks size 31
+[INFO ] 2017-08-16 11:16:07,563 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2017-08-16 11:16:07,563 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2017-08-16 11:16:07,563 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2017-08-16 11:16:07,594 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2017-08-16 11:16:07,594 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-08-16 11:16:07,594 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2017-08-16 11:16:07,594 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2017-08-16 11:16:07,657 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2017-08-16 11:16:32,459 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:16:32,475 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:16:32,475 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:16:32,554 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:16:32,554 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:16:32,554 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:16:32,554 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 11:19:06,695 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:19:06,695 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:19:06,695 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:19:06,852 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:19:06,852 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:19:06,852 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:19:06,852 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 11:36:46,149 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:36:46,149 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:36:46,149 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:36:46,275 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:36:46,275 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:36:46,275 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:36:46,275 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 11:37:43,787 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:37:43,787 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:37:43,787 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:37:43,881 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:37:43,881 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:37:43,881 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:37:43,881 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 11:39:58,422 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 11:39:58,437 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 11:39:58,437 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 11:39:58,532 - DomCFGField:106 : createTask: name :pageno
+[INFO ] 2017-08-16 11:39:58,532 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2017-08-16 11:39:58,532 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-08-16 11:39:58,532 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 18:13:49,443 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 18:13:49,458 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 18:13:49,458 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 18:13:49,536 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-08-16 18:13:49,536 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-08-16 18:13:49,536 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 18:13:49,536 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-08-16 18:13:49,912 - ParseUtils:46 : url:https://item.jd.com/11225432781.html tasks size 0
+[INFO ] 2017-08-16 18:17:37,289 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 18:17:37,289 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 18:17:37,289 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 18:17:37,382 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-08-16 18:17:37,382 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-08-16 18:17:37,382 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 18:17:37,382 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-08-16 18:28:05,083 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 18:28:05,083 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 18:28:05,083 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 18:28:05,177 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-08-16 18:28:05,177 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-08-16 18:28:05,177 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 18:28:05,177 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-08-16 18:28:45,163 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 18:28:45,179 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 18:28:45,179 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 18:28:45,273 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-08-16 18:28:45,273 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-08-16 18:28:45,273 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-08-16 18:28:45,289 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-08-16 18:34:09,267 - ParseUtils:46 : url:https://item.jd.com/11225432781.html tasks size 0
+[INFO ] 2017-08-16 19:12:40,416 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 19:12:40,416 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 19:12:40,416 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 19:12:40,432 - TextUtil:362 : url:https://p.3.cn/prices/mgets?area=19_1607&skuIds=J_10625472175 use chaset utf8
+[ERROR] 2017-08-16 19:12:40,432 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-16 19:13:22,881 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-16 19:13:22,897 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-16 19:13:22,897 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-16 19:13:22,912 - TextUtil:362 : url:https://p.3.cn/prices/mgets?area=19_1607&skuIds=J_3370431 use chaset utf8
+[ERROR] 2017-08-16 19:13:22,912 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

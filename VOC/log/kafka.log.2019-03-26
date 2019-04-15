@@ -1,0 +1,34 @@
+[INFO ] 2019-03-26 11:06:34,430 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-26 11:06:34,468 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-26 11:06:34,469 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-26 11:06:35,056 - DomCFGField:106 : createTask: name :content
+[INFO ] 2019-03-26 11:06:35,056 - DomCFGField:106 : createTask: name :author
+[INFO ] 2019-03-26 11:06:35,056 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2019-03-26 11:06:35,058 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-26 11:08:00,116 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-26 11:08:00,119 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-26 11:08:00,119 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-26 11:08:00,228 - DomCFGField:106 : createTask: name :content
+[INFO ] 2019-03-26 11:08:00,228 - DomCFGField:106 : createTask: name :author
+[INFO ] 2019-03-26 11:08:00,228 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2019-03-26 11:08:00,229 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-26 11:09:48,265 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-26 11:09:48,270 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-26 11:09:48,271 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-26 11:09:48,296 - TextUtil:362 : url:http://www.elecfans.com/webapi/arcinfo/apiGetCommentJson?page=1&order=new&aid=705348 use chaset gbk
+[ERROR] 2019-03-26 11:09:48,296 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2019-03-26 17:26:24,401 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
+[INFO ] 2019-03-26 17:26:24,403 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
+[INFO ] 2019-03-26 17:26:24,404 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-03-26 17:26:24,867 - DomCFGField:106 : createTask: name :contents
+[INFO ] 2019-03-26 17:26:24,868 - DomCFGField:106 : createTask: name :newstime
+[INFO ] 2019-03-26 17:26:24,883 - DomCFGField:106 : createTask: name :authorname
+[INFO ] 2019-03-26 17:26:24,883 - DomCFGField:106 : createTask: name :author_level
+[INFO ] 2019-03-26 17:26:24,883 - DomCFGField:106 : createTask: name :replyusername
+[INFO ] 2019-03-26 17:26:24,884 - DomCFGField:106 : createTask: name :replycontent
+[INFO ] 2019-03-26 17:26:24,884 - DomCFGField:106 : createTask: name :replydate
+[INFO ] 2019-03-26 17:26:24,884 - DomCFGField:106 : createTask: name :replyfloor
+[INFO ] 2019-03-26 17:26:24,884 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-03-26 17:26:24,885 - DomCFGField:106 : createTask: name :view_cnt
+[INFO ] 2019-03-26 17:26:24,885 - DomCFGField:106 : createTask: name :replycount
+[ERROR] 2019-03-26 17:26:25,265 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[table@@plhin@0]

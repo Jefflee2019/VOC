@@ -1,0 +1,57 @@
+[INFO ] 2017-04-18 16:45:01,331 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:45:01,334 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:45:01,335 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:45:01,524 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-04-18 16:45:01,525 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-04-18 16:45:01,527 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:45:01,528 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-04-18 16:45:01,529 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-04-18 16:45:01,530 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-04-18 16:45:02,038 - Nimp3ContentRe:80 : url:http://www.imp3.net/article-74337-1.htmltaskdata is http://www.imp3.net/portal.php?mod=comment&id=74337http://www.imp3.net/portal.php?mod=comment&id=74337newscomment
+[INFO ] 2017-04-18 16:46:04,704 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:46:04,707 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:46:04,707 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:46:04,795 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-04-18 16:46:04,795 - DomCFGField:106 : createTask: name :author
+[INFO ] 2017-04-18 16:46:04,795 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:46:04,795 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-04-18 16:46:04,795 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-04-18 16:46:04,796 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-04-18 16:46:05,150 - DomSearch:948 : null Missing field: source rp:["a@@fc6@0"]
+[INFO ] 2017-04-18 16:48:38,025 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:48:38,028 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:48:38,028 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:48:38,118 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:48:38,175 - DomCFGField:106 : createTask: name :username
+[INFO ] 2017-04-18 16:48:38,175 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-04-18 16:48:38,175 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-04-18 16:49:35,718 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:49:35,721 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:49:35,721 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:49:35,806 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:49:35,807 - DomCFGField:106 : createTask: name :username
+[INFO ] 2017-04-18 16:49:35,807 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-04-18 16:49:35,807 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-04-18 16:49:35,969 - ParseUtils:46 : url:http://www.imp3.net/portal.php?mod=comment&id=74337 tasks size 0
+[INFO ] 2017-04-18 16:50:55,084 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:50:55,092 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:50:55,092 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:50:55,193 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:50:55,194 - DomCFGField:106 : createTask: name :username
+[INFO ] 2017-04-18 16:50:55,194 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-04-18 16:50:55,194 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-04-18 16:52:03,565 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:52:03,569 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:52:03,570 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:52:03,679 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:52:03,680 - DomCFGField:106 : createTask: name :username
+[INFO ] 2017-04-18 16:52:03,680 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-04-18 16:52:03,681 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-04-18 16:53:06,121 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-18 16:53:06,124 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-18 16:53:06,124 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-18 16:53:06,207 - DomCFGField:106 : createTask: name :reply_cnt
+[INFO ] 2017-04-18 16:53:06,208 - DomCFGField:106 : createTask: name :username
+[INFO ] 2017-04-18 16:53:06,208 - DomCFGField:106 : createTask: name :comment_content
+[INFO ] 2017-04-18 16:53:06,209 - DomCFGField:106 : createTask: name :comment_time
+[INFO ] 2017-04-18 16:53:06,365 - ParseUtils:46 : url:http://www.imp3.net/portal.php?mod=comment&id=74337 tasks size 0

@@ -1,0 +1,28 @@
+[INFO ] 2017-10-13 16:11:38,822 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-13 16:11:38,827 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-13 16:11:38,827 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-13 16:11:38,943 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-13 16:11:38,943 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-13 16:11:38,943 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-13 16:11:39,776 - ParseUtils:46 : url:http://item.feiniu.com/KS1201605CG110000111 tasks size 0
+[INFO ] 2017-10-13 16:12:29,137 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-13 16:12:29,139 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-13 16:12:29,140 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-13 16:12:29,236 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-13 16:12:29,236 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-13 16:12:29,237 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-13 16:12:29,237 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-13 16:12:29,818 - ParseUtils:46 : url:http://item.feiniu.com/KS1201605CG110000111 tasks size 0
+[INFO ] 2017-10-13 16:15:46,895 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-13 16:15:46,898 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-13 16:15:46,898 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-13 16:15:46,990 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-10-13 16:15:46,991 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-10-13 16:15:46,991 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-10-13 16:15:46,991 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-10-13 16:15:47,455 - ParseUtils:46 : url:http://item.feiniu.com/90301847010 tasks size 0
+[INFO ] 2017-10-13 16:26:28,012 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-10-13 16:26:28,015 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-10-13 16:26:28,015 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-10-13 16:26:28,098 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-10-13 16:26:28,099 - DomCFGField:106 : createTask: name :itemname

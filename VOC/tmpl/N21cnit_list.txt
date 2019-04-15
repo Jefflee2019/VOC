@@ -1,0 +1,1 @@
+<tmpl path=""><block path="div@warper@@1/div@container@@0/div@main@@0/ul@@result@0/li@@res-list@*" name="items"><fld name="itemlink" path="h3@@res-title@0/a@@@0" multi="" ext="" link="true" linkType="bbspost" createTask="1"/><fld name="itemname" path="h3@@res-title@0/a@@@0" multi="" ext=""/></block></tmpl>

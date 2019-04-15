@@ -1,0 +1,10 @@
+[INFO ] 2017-04-13 11:38:32,297 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-13 11:38:32,301 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-13 11:38:32,301 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-13 11:38:32,315 - TextUtil:362 : url:https://api-prod.wallstreetcn.com/apiv1/search/article?query=华为&order_type=time&cursor=1&limit=20 use chaset utf8
+[ERROR] 2017-04-13 11:38:32,315 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-04-13 16:50:25,189 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-13 16:50:25,192 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-13 16:50:25,192 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-13 16:50:25,203 - TextUtil:362 : url:https://api-prod.wallstreetcn.com/apiv1/search/article?query=华为&order_type=time&cursor=1&limit=20 use chaset utf8
+[ERROR] 2017-04-13 16:50:25,203 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

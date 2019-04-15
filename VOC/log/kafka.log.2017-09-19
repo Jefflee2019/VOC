@@ -1,0 +1,5 @@
+[INFO ] 2017-09-19 11:44:52,389 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-19 11:44:52,397 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-19 11:44:52,398 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-19 11:44:52,411 - TextUtil:362 : url:https://review.suning.com/ajax/review_satisfy/general-000000000188736032-0000000000-----satisfy.htm use chaset utf8
+[ERROR] 2017-09-19 11:44:52,411 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

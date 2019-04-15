@@ -1,0 +1,10 @@
+<tmpl path="">
+  <node path="div@@@1/div@innerWrap@@0/main@@main-section wide-screen@0/div@@row row-padding-15@1/div@content-body@small-12 large-9 xlarge-8 columns@1">
+    <fld name="pagecount" path="div@@grid-header search-header@2/div@@top@0/div@@row row-padding-15@0/div@@column medium-7@0/ul@@inline-breadcrumbs filter-group@0/li@@total@1" multi="" ext=""/>
+    <block path="div@@list-view search-results-content@5/div@@row collapse content flex-box-grid     medium-up-1      large-up-1@0/div@@column column-block block-list-large single-item@*" name="items">
+      <fld name="itemprice" path="div@@col col-buy@2/ul@@list-blocks@0/li@@@0/div@@price-inline@0/div@@is sk-clr1@0" multi="" ext=""/>
+      <fld name="itemlink" path="div@@col col-info item-content@1/a@@itemLink sk-clr2 sPrimaryLink@0" multi="" ext="" link="true" linkType="eccontent" createTask="0"/>
+      <fld name="itemname" path="div@@col col-info item-content@1/a@@itemLink sk-clr2 sPrimaryLink@0/h1@@itemTitle@0" multi="" ext=""/>
+    </block>
+  </node>
+</tmpl>

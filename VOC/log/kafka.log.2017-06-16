@@ -1,0 +1,16 @@
+[INFO ] 2017-06-16 15:47:16,873 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-16 15:47:16,922 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-16 15:47:16,923 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-16 15:47:17,062 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-16 15:47:17,062 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-16 15:47:17,063 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-16 15:47:17,063 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-16 15:47:19,616 - ParseUtils:46 : url:http://news.bitauto.com/appzhuanzai/20161015/1806813130.html tasks size 0
+[INFO ] 2017-06-16 15:48:10,454 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-16 15:48:10,456 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-16 15:48:10,456 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-16 15:48:10,540 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2017-06-16 15:48:10,541 - DomCFGField:106 : createTask: name :source
+[INFO ] 2017-06-16 15:48:10,541 - DomCFGField:106 : createTask: name :content
+[INFO ] 2017-06-16 15:48:10,541 - DomCFGField:106 : createTask: name :title
+[INFO ] 2017-06-16 15:48:11,075 - ParseUtils:46 : url:http://news.bitauto.com/appzhuanzai/20161015/1806813130.html tasks size 0

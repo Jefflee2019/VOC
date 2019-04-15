@@ -1,0 +1,10 @@
+<tmpl path="">
+  <node path="div@app@@0/div@app@@0/div@@@0/div@tudou-pc-container@main@0/div@@tudou-container tudou-component@0/div@@@0/div@@@0/div@play-container@container@0/div@@left-side@1/div@@@1">
+    <node path="div@@td-play__baseinfo@1">
+      <fld name="author" path="div@@td-play__userinfo@0/div@@td-play__userinfo__meta@0/a@@td-play__userinfo__name@0" multi="" ext=""/>
+      <fld name="play_cnt" path="div@@td-play__videoinfo@1/span@@td-play__videoinfo__playnum@0/span@vvcount@td-play__videoinfo__num@0" multi="" ext=""/>
+    </node>
+    <fld name="title" path="div@@td-playbase@0/div@@td-playbase__info@0/h1@@td-playbase__title@0/span@subtitle@td-playbase__title-txt@0" multi="" ext=""/>
+    <fld name="content" path="div@@td-playbase@0/div@@td-playbase__info@0/h1@@td-playbase__title@0/span@subtitle@td-playbase__title-txt@0" multi="" ext=""/>
+  </node>
+</tmpl>

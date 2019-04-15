@@ -1,0 +1,33 @@
+[INFO ] 2017-04-17 17:43:20,668 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:43:20,673 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:43:20,674 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:43:20,689 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-04-17 17:43:20,689 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-04-17 17:43:20,865 - NtmtpostListJson:137 : 
+[INFO ] 2017-04-17 17:43:33,838 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:43:33,841 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:43:33,841 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:43:33,853 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset gbk
+[ERROR] 2017-04-17 17:43:33,854 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[WARN ] 2017-04-17 17:43:34,043 - NtmtpostListJson:137 : 
+[INFO ] 2017-04-17 17:44:23,467 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:44:23,473 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:44:23,473 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:45:00,991 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-04-17 17:45:00,995 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-04-17 17:47:17,526 - NtmtpostListJson:137 : 
+[INFO ] 2017-04-17 17:53:15,101 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:53:15,111 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:53:15,112 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:53:15,133 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-04-17 17:53:15,133 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-04-17 17:54:43,052 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:54:43,056 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:54:43,057 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:54:43,073 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-04-17 17:54:43,073 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-04-17 17:58:10,356 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-04-17 17:58:10,361 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-04-17 17:58:10,362 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-04-17 17:58:10,379 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-04-17 17:58:10,379 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

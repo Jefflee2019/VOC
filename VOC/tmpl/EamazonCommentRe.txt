@@ -1,0 +1,24 @@
+<tmpl path="">
+  <node path="div@a-page@@0">
+    <node path="div@@@1">
+      <node path="div@@a-fixed-right-grid page-content page-min-width a-spacing-top-medium@0/div@@a-fixed-right-grid-inner@0/div@@a-fixed-right-grid-col a-col-left@0/div@cm_cr-product_info@a-fixed-left-grid product-details celwidget@0/div@@a-fixed-left-grid-inner@0">
+        <fld name="title" path="div@@a-fixed-left-grid-col a-col-right@1/div@@a-fixed-left-grid@0/div@@a-fixed-left-grid-inner@0/div@@a-fixed-left-grid-col product-info a-col-right@1/div@@a-row product-title@0/h1@@a-size-large a-text-ellipsis@0/a@@a-link-normal@0" multi="" ext=""/>
+        <node path="div@@a-text-left a-fixed-left-grid-col reviewNumericalSummary celwidget a-col-left@0">
+          <fld name="good_rate" path="div@@a-row a-spacing-top-small@3/div@@a-section histogram@0/span@@a-declarative@0/table@histogramTable@a-normal a-align-middle a-spacing-base@0/tbody@@@0/tr@@a-histogram-row@0/td@@a-text-right aok-nowrap@2/a@@a-size-small a-link-normal 5star histogram-review-count@0" multi="" ext=""/>
+          <fld name="comment_cnt" path="div@@a-row averageStarRatingIconAndCount@1/div@@a-fixed-left-grid AverageCustomerReviews@0/div@@a-fixed-left-grid-inner@0/div@@a-fixed-left-grid-col a-col-right@1/div@@a-row@0/span@@a-size-medium totalReviewCount@0" multi="" ext=""/>
+        </node>
+      </node>
+      <block name="cate" path="h1@@a-spacing-top-small page-content page-min-width@0/div@cm_cr-brdcmb@a-section a-subheader a-breadcrumb celwidget@0/ul@@a-unordered-list a-nostyle a-horizontal a-size-base@0/li@@@*/span@@a-list-item@0">
+        <fld name="cate" path="" multi="" ext=""/>
+      </block>
+    </node>
+    <node path="div@@@2/div@@a-section a-spacing-small page-content page-min-width@0/div@@a-fixed-right-grid view-point@1/div@@a-fixed-right-grid-inner@0/div@@a-fixed-right-grid-col a-col-left@0/div@@a-section a-spacing-none reviews-content a-size-base@2/div@cm_cr-review_list@a-section a-spacing-none review-views celwidget@2">
+      <block path="div@@a-section review@*/div@@a-row a-spacing-none@0/div@@a-section celwidget@0" name="comments">
+        <fld name="commenter_name" path="div@@a-row a-spacing-mini@0/a@@a-profile@0/div@@a-profile-content@1/span@@a-profile-name@0" multi="" ext=""/>
+        <fld name="comment_content" path="div@@a-row a-spacing-small review-data@3/span@@a-size-base review-text@0" multi="" ext=""/>
+        <fld name="comment_time" path="span@@a-size-base a-color-secondary review-date@0" multi="" ext=""/>
+      </block>
+      <fld name="nextpage" path="div@@a-form-actions a-spacing-top-extra-large@8/span@@a-declarative@0/div@cm_cr-pagination_bar@a-text-center celwidget a-text-base@0/ul@@a-pagination@0/li@@a-last@5/a@@@0" multi="" ext="" link="true" linkType="eccomment" createTask="1"/>
+    </node>
+  </node>
+</tmpl>

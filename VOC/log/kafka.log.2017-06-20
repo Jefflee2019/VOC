@@ -1,0 +1,167 @@
+[INFO ] 2017-06-20 09:19:27,304 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:19:27,342 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:19:27,343 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:19:28,549 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:19:28,555 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:19:28,556 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:19:29,425 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:19:29,425 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:19:29,425 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:19:29,426 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:19:29,426 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:20:58,844 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:20:58,849 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:20:58,849 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:20:58,960 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:20:58,961 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:20:58,962 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:20:59,487 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:20:59,487 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:20:59,488 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:20:59,488 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:20:59,488 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:21:45,602 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:21:45,607 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:21:45,608 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:21:45,706 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:21:45,707 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:21:45,707 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:21:46,165 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:21:46,166 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:21:46,166 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:21:46,166 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:21:46,166 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:23:54,836 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:23:54,840 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:23:54,841 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:23:54,934 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:23:54,936 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:23:54,936 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:23:55,358 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:23:55,359 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:23:55,359 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:23:55,359 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:23:55,359 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:26:16,087 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:26:16,091 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:26:16,091 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:26:16,180 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:26:16,180 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:26:16,181 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:26:16,618 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:26:16,618 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:26:16,619 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:26:16,619 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:26:16,619 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:34:52,514 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:34:52,516 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:34:52,517 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:34:52,597 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:34:52,598 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:34:52,598 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-06-20 09:34:53,463 - DomSearch:948 : null Missing field: itemname rp:["div@@w@4","div@@product-intro@0","div@@itemInfo-wrap@1","div@@sku-name@0"]
+[INFO ] 2017-06-20 09:36:24,526 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:36:24,531 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:36:24,531 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:36:24,618 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:36:24,619 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:36:24,619 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:36:24,996 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:36:24,996 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:36:24,997 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:36:24,997 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:36:24,997 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:37:02,499 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:37:02,502 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:37:02,503 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:37:02,585 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:37:02,586 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:37:02,586 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-06-20 09:37:03,432 - DomSearch:948 : null Missing field: itemname rp:["div@@w@4","div@@product-intro@0","div@@itemInfo-wrap@1","div@@sku-name@0"]
+[INFO ] 2017-06-20 09:37:48,090 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:37:48,092 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:37:48,092 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:37:48,173 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:37:48,174 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:37:48,174 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:37:48,547 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:37:48,548 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:37:48,548 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:37:48,548 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:37:48,549 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:38:10,948 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:38:10,952 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:38:10,952 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:38:11,060 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:38:11,061 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:38:11,062 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:38:11,469 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:38:11,469 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:38:11,470 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:38:11,470 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:38:11,470 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:40:58,284 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:40:58,286 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:40:58,286 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:40:58,372 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:40:58,373 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:40:58,373 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:40:58,734 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:40:58,734 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:40:58,735 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:40:58,735 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:40:58,735 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:40:58,782 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:40:58,782 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:40:59,141 - EjdContentJson:93 : json parse error or json is null
+[INFO ] 2017-06-20 09:41:53,911 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:41:53,912 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:41:53,912 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:41:54,062 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:41:54,062 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:41:54,063 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:41:54,063 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:41:54,064 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:41:59,462 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:41:59,462 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:41:59,682 - EjdContentJson:93 : json parse error or json is null
+[INFO ] 2017-06-20 09:42:29,132 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:42:29,136 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:42:29,137 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:42:29,239 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:42:29,240 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:42:29,241 - DomCFGField:106 : createTask: name :itemname
+[ERROR] 2017-06-20 09:42:29,652 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:42:29,652 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:42:29,653 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:42:29,653 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[ERROR] 2017-06-20 09:42:29,653 - DomSearch:1312 : null Miss Match - 00 at level 2, nodePattern:[a@@@*]
+[INFO ] 2017-06-20 09:43:05,381 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:43:05,385 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:43:52,266 - EjdContentJson:93 : json parse error or json is null
+[INFO ] 2017-06-20 09:44:18,867 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:44:18,869 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:44:18,869 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:44:18,953 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:44:18,956 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:44:18,956 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-06-20 09:44:19,803 - DomSearch:948 : null Missing field: itemname rp:["div@@w@4","div@@product-intro@0","div@@itemInfo-wrap@1","div@@sku-name@0"]
+[INFO ] 2017-06-20 09:44:19,815 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:44:19,815 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:44:19,830 - EjdContentJson:93 : json parse error or json is null
+[INFO ] 2017-06-20 09:44:41,291 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:44:41,295 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:44:41,295 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:44:41,389 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-06-20 09:44:41,390 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2017-06-20 09:44:41,390 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-06-20 09:44:42,364 - DomSearch:948 : null Missing field: itemname rp:["div@@w@4","div@@product-intro@0","div@@itemInfo-wrap@1","div@@sku-name@0"]
+[INFO ] 2017-06-20 09:45:31,203 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:45:31,203 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:45:31,209 - EjdContentJson:93 : json parse error or json is null
+[INFO ] 2017-06-20 09:45:51,903 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-06-20 09:45:51,906 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-06-20 09:45:51,906 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-06-20 09:45:51,928 - TextUtil:362 : url:http://club.jd.com/review/3918172-3-1-0.html?d=d use chaset utf8
+[ERROR] 2017-06-20 09:45:51,929 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-06-20 09:45:52,090 - EjdContentJson:93 : json parse error or json is null

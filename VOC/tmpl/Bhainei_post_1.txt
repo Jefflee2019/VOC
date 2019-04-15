@@ -1,0 +1,29 @@
+<tmpl path="">
+  <node path="div@wp@wp@5/div@ct@zhanzhuai_ct2 cl@1">
+    <node path="div@@mn ZHanZHuaicss animated bounceInLeft@1">
+      <fld name="nextpage" path="div@@bm bw0 pgs cl@3/span@fd_page_bottom@@0/div@@pg@0/a@@nxt@1" multi="" ext="" link="true" linkType="bbspost" createTask="1"/>
+      <node path="div@postlist@pl@1">
+        <node path="div@@zhanzhuai_viewthreadtop@0/table@@@0/tbody@@@0/tr@@@0/td@@plc@0">
+          <node path="div@@zhanzhuai_authi@1">
+            <fld name="replycount" path="span@@@3" multi="" ext=""/>
+            <fld name="authorname" path="span@@zhanzhuai-mr5@0/a@@node@0" multi="" ext=""/>
+            <fld name="newstime" path="span@@zhanzhuai-mr5@1" multi="" ext=""/>
+            <fld name="view_cnt" path="span@@zhanzhuai-mr5@2" multi="" ext=""/>
+          </node>
+          <fld name="title" path="div@@zhanzhuai_view_h1@0/h1@@ts@0/span@thread_subject@@0" multi="" ext=""/>
+        </node>
+        <fld name="contents" path="div@@@1/div@@zhanzhuai_viewthread@0/table@@plhin@0/tbody@@@0/tr@@@0/td@@plc@0/div@@pct@0/div@@pcb@0/div@@t_fsz@0" multi="" ext=""/>
+        <block path="div@@@*/div@@zhanzhuai_replythread@0" name="replys">
+          <fld name="replycontent" path="table@@table_reply plhin@0/tbody@@@0/tr@@@0/td@@plc plct@1/div@@pct@1/div@@pcb@0/div@@t_fsz@0" multi="" ext=""/>
+          <fld name="replyusername" path="table@@table_reply plhin@0/tbody@@@0/tr@@@0/td@@plc plct@1/div@@pi@0/div@@pti@0/div@@authi@1/a@@xi2@0" multi="" ext=""/>
+          <fld name="replydate" path="table@@table_reply plhin@0/tbody@@@0/tr@@@0/td@@plc plct@1/div@@pi@0/div@@pti@0/div@@authi@1/em@@@0" multi="" ext=""/>
+          <fld name="replyfloor" path="table@@table_reply plhin@0/tbody@@@0/tr@@@0/td@@plc plct@1/div@@pi@0/strong@@@0/a@@@0" multi="" ext=""/>
+        </block>
+      </node>
+      <block path="div@pt@bm cl@0/div@@z@0/a@@@*" name="cate">
+        <fld name="cate" path="" multi="" ext=""/>
+      </block>
+    </node>
+    <fld name="author_level" path="div@@sd ZHanZHuaicss animated bounceInRight@0/div@@viewthread_author@1/div@@viewthread_author_info@1/a@@@0" multi="" ext=""/>
+  </node>
+</tmpl>

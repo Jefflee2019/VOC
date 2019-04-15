@@ -1,0 +1,10 @@
+[INFO ] 2017-08-22 18:40:34,484 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-22 18:40:34,535 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-22 18:40:34,535 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-22 18:40:34,614 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=19_1607_3155_0 use chaset utf8
+[ERROR] 2017-08-22 18:40:34,614 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-08-22 18:40:59,442 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-08-22 18:40:59,447 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-08-22 18:40:59,447 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-08-22 18:40:59,460 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=4787565&area=22_1930_50946_0 use chaset utf8
+[ERROR] 2017-08-22 18:40:59,460 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

@@ -1,0 +1,136 @@
+[INFO ] 2017-09-13 16:00:45,005 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 16:00:45,016 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 16:00:45,017 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 16:00:45,556 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2017-09-13 16:00:45,557 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-09-13 16:01:07,132 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 16:01:07,136 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 16:01:07,137 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 16:01:07,372 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-09-13 16:01:07,372 - DomCFGField:106 : createTask: name :storename
+[INFO ] 2017-09-13 16:01:07,381 - DomCFGField:106 : createTask: name :parameter
+[INFO ] 2017-09-13 16:01:07,381 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2017-09-13 16:01:07,383 - DomCFGField:106 : createTask: name :cate
+[ERROR] 2017-09-13 16:01:07,846 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-09-13 16:01:07,847 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[ERROR] 2017-09-13 16:01:07,849 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@breadcrumb@0]
+[INFO ] 2017-09-13 16:01:13,282 - ParseUtils:46 : url:https://product.suning.com/0000000000/188736032.html tasks size 0
+[INFO ] 2017-09-13 18:06:10,343 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:06:10,347 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:06:10,347 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:06:10,484 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset gbk
+[ERROR] 2017-09-13 18:06:10,485 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-09-13 18:06:10,716 - Esuning_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-09-13 18:06:10,716 - Esuning_wlmContentJson:59 : AMJsonParse exception,taskdat url=https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm.jsonUrl:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm
+java.lang.NullPointerException
+	at com.bfd.parse.json.Esuning_wlmContentJson.getProm(Esuning_wlmContentJson.java:157)
+	at com.bfd.parse.json.Esuning_wlmContentJson.executeParse(Esuning_wlmContentJson.java:126)
+	at com.bfd.parse.json.Esuning_wlmContentJson.parse(Esuning_wlmContentJson.java:55)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.testDemo(Esuning_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.main(Esuning_wlmContentJsonTest.java:14)
+[INFO ] 2017-09-13 18:11:05,624 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:11:05,629 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:11:05,629 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:11:05,646 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset gbk
+[ERROR] 2017-09-13 18:11:05,646 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-09-13 18:11:05,823 - Esuning_wlmContentJson:81 : json parse error or json is null
+[INFO ] 2017-09-13 18:22:32,840 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:22:32,844 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:22:32,845 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:22:32,867 - TextUtil:362 : url:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html use chaset gbk
+[ERROR] 2017-09-13 18:22:32,867 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-09-13 18:22:33,051 - Esuning_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-09-13 18:22:33,052 - Esuning_wlmContentJson:59 : AMJsonParse exception,taskdat url=https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html.jsonUrl:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html
+java.lang.NullPointerException
+	at com.bfd.parse.json.Esuning_wlmContentJson.getPriceNstockStatus(Esuning_wlmContentJson.java:219)
+	at com.bfd.parse.json.Esuning_wlmContentJson.executeParse(Esuning_wlmContentJson.java:102)
+	at com.bfd.parse.json.Esuning_wlmContentJson.parse(Esuning_wlmContentJson.java:55)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.testDemo(Esuning_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.main(Esuning_wlmContentJsonTest.java:14)
+[INFO ] 2017-09-13 18:23:12,357 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:23:12,362 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:23:12,362 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:23:12,377 - TextUtil:362 : url:https://c0.3.cn/stocks?type=getstocks&skuIds=1216716&area=19_1607_3155_0 use chaset gbk
+[ERROR] 2017-09-13 18:23:12,377 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2017-09-13 18:24:06,324 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:24:06,327 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:24:06,327 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:24:06,338 - TextUtil:362 : url:https://cd.jd.com/promotion/v2?skuId=1216716&area=19_1607_3155_0&shopId=1000002668&cat=1319,1523,7052 use chaset gbk
+[ERROR] 2017-09-13 18:24:06,339 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2017-09-13 18:24:06,513 - Ejd_wlmContentJson:80 : json parse error or json is null
+[INFO ] 2017-09-13 18:24:41,333 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:24:41,341 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:24:41,342 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:24:41,352 - TextUtil:362 : url:https://cd.jd.com/promotion/v2?skuId=1216716&area=19_1607_3155_0&shopId=1000002668&cat=1319,1523,7052 use chaset utf8
+[ERROR] 2017-09-13 18:24:41,352 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:25:02,740 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:25:02,743 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:25:02,744 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:25:02,757 - TextUtil:362 : url:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html use chaset utf8
+[ERROR] 2017-09-13 18:25:02,757 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-09-13 18:25:02,932 - Esuning_wlmContentJson:81 : json parse error or json is null
+[WARN ] 2017-09-13 18:25:02,932 - Esuning_wlmContentJson:59 : AMJsonParse exception,taskdat url=https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html.jsonUrl:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html
+java.lang.NullPointerException
+	at com.bfd.parse.json.Esuning_wlmContentJson.getPriceNstockStatus(Esuning_wlmContentJson.java:219)
+	at com.bfd.parse.json.Esuning_wlmContentJson.executeParse(Esuning_wlmContentJson.java:102)
+	at com.bfd.parse.json.Esuning_wlmContentJson.parse(Esuning_wlmContentJson.java:55)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.testDemo(Esuning_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.main(Esuning_wlmContentJsonTest.java:14)
+[INFO ] 2017-09-13 18:28:58,176 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:28:58,182 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:28:58,183 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:28:58,206 - TextUtil:362 : url:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html use chaset utf8
+[ERROR] 2017-09-13 18:28:58,206 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-09-13 18:28:58,321 - Esuning_wlmContentJson:84 : json parse error or json is null
+[WARN ] 2017-09-13 18:28:58,322 - Esuning_wlmContentJson:61 : AMJsonParse exception,taskdat url=https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html.jsonUrl:https://pas.suning.com/nspcsale_0_000000000134903460_000000000134903460_0070114511_190_755_7550101.html
+java.lang.NullPointerException
+	at com.bfd.parse.json.Esuning_wlmContentJson.getPriceNstockStatus(Esuning_wlmContentJson.java:222)
+	at com.bfd.parse.json.Esuning_wlmContentJson.executeParse(Esuning_wlmContentJson.java:105)
+	at com.bfd.parse.json.Esuning_wlmContentJson.parse(Esuning_wlmContentJson.java:57)
+	at com.bfd.parse.test.plugin.ParsePlugin.parse(ParsePlugin.java:97)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.testDemo(Esuning_wlmContentJsonTest.java:38)
+	at com.bfd.parse.test.plugin.Esuning_wlmContentJsonTest.main(Esuning_wlmContentJsonTest.java:14)
+[INFO ] 2017-09-13 18:29:41,668 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:29:41,675 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:29:41,676 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:29:41,692 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:29:41,693 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2017-09-13 18:29:41,729 - Esuning_wlmContentJson:84 : json parse error or json is null
+[INFO ] 2017-09-13 18:30:47,020 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:30:47,025 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:30:47,025 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:30:47,045 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:30:47,045 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:37:28,821 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:37:28,827 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:37:28,827 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:37:28,847 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:37:28,848 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:42:31,183 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:42:31,191 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:42:31,191 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:42:38,239 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:42:38,245 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:44:00,835 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:44:00,840 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:44:00,841 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:44:00,855 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:44:00,855 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:44:18,943 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:44:18,948 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:44:18,949 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:44:23,164 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:44:23,168 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:45:44,331 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:45:44,334 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:45:44,335 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:45:44,347 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:45:44,347 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2017-09-13 18:46:03,077 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-09-13 18:46:03,083 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-09-13 18:46:03,084 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-09-13 18:46:05,129 - TextUtil:362 : url:https://icps.suning.com/icps-web/queryExtendedGift/000000000602881187_0070160971_755_7550101_2266.00_1_11_1_3,30_pds__0_.vhtm use chaset utf8
+[ERROR] 2017-09-13 18:46:05,133 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

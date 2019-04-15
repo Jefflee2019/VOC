@@ -1,0 +1,147 @@
+[INFO ] 2018-07-31 17:59:20,136 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 17:59:20,153 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 17:59:20,153 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 17:59:20,999 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 17:59:21,000 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 17:59:21,000 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 17:59:21,001 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 17:59:21,001 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 17:59:21,947 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,947 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,947 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,948 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,948 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,948 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:21,949 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 17:59:21,984 - ParseUtils:46 : url:http://search.cctv.com/search.php?qtext=%E5%8D%8E%E4%B8%BA&type=web tasks size 11
+[INFO ] 2018-07-31 17:59:21,999 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-31 17:59:22,000 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-31 17:59:22,000 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-31 17:59:22,022 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-31 17:59:22,023 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 17:59:22,024 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 17:59:22,024 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-31 17:59:22,089 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-31 17:59:54,315 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 17:59:54,318 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 17:59:54,318 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 17:59:54,419 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 17:59:54,420 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 17:59:54,420 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 17:59:54,420 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 17:59:54,421 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 17:59:54,896 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,896 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,896 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,897 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,897 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,897 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 17:59:54,898 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 17:59:54,933 - ParseUtils:46 : url:http://search.cctv.com/search.php?qtext=%E5%8D%8E%E4%B8%BA&type=web tasks size 11
+[INFO ] 2018-07-31 17:59:54,937 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-31 17:59:54,937 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-31 17:59:54,937 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-31 17:59:54,945 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-31 17:59:54,945 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 17:59:54,946 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 17:59:54,947 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-31 17:59:54,985 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-31 18:00:13,141 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:00:13,144 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:00:13,148 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:00:13,231 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:00:13,232 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:00:13,232 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:00:13,232 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:00:13,233 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:00:13,685 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,686 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,686 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,686 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,687 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,687 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:13,687 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 18:00:13,723 - ParseUtils:46 : url:http://search.cctv.com/search.php?qtext=%E5%8D%8E%E4%B8%BA&type=web tasks size 11
+[INFO ] 2018-07-31 18:00:13,726 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-31 18:00:13,726 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-31 18:00:13,726 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-31 18:00:13,734 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-31 18:00:13,734 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 18:00:13,736 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-31 18:00:13,736 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-31 18:00:13,773 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-31 18:00:43,017 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:00:43,021 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:00:43,021 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:00:43,119 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:00:43,120 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:00:43,120 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:00:43,120 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:00:43,120 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:00:43,614 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,615 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,615 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,615 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,616 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,616 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:00:43,616 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 18:03:33,604 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:03:33,607 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:03:33,613 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:03:33,722 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:03:33,723 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:03:33,723 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:03:33,723 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:03:33,724 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:03:34,168 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,168 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,168 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,169 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,169 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,169 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:03:34,170 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 18:04:35,819 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:04:35,823 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:04:35,823 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:04:35,922 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:04:35,922 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:04:35,923 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:04:35,923 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:04:35,923 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:04:36,408 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,409 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,409 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,409 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,410 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,410 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:04:36,410 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 18:08:25,940 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:08:25,942 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:08:25,946 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:08:26,030 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:08:26,031 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:08:26,031 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:08:26,031 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:08:26,031 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:08:26,515 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,516 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,516 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,516 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,516 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,517 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:08:26,517 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[INFO ] 2018-07-31 18:09:39,098 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-31 18:09:39,101 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-31 18:09:39,101 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-31 18:09:39,189 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:09:39,189 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:09:39,189 - DomCFGField:106 : createTask:1 name :link
+[INFO ] 2018-07-31 18:09:39,190 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-31 18:09:39,190 - DomCFGField:106 : createTask:1 name :nextpage
+[ERROR] 2018-07-31 18:09:39,656 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,657 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,657 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,657 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,658 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,658 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]
+[ERROR] 2018-07-31 18:09:39,659 - DomSearch:1312 : null Miss Match - 00 at level 3, nodePattern:[div@@tright@0]

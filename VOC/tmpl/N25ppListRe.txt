@@ -1,0 +1,1 @@
+<tmpl path=""><node path="div@@wrap@1/div@@contain@0"><block path="ul@@news-list clearfix@0/li@@news-li@*" name="items"><fld name="link" path="p@@li-title clearfix@0/a@@link@0" multi="" ext="" link="true" linkType="newscontent" createTask="1"/><fld name="title" path="p@@li-title clearfix@0/a@@link@0" multi="" ext=""/></block></node></tmpl>

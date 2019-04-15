@@ -1,0 +1,12 @@
+[INFO ] 2017-07-25 15:06:17,386 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-07-25 15:06:17,410 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-07-25 15:06:17,411 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-07-25 15:06:17,465 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-07-25 15:06:17,466 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-07-25 15:06:17,706 - NtmtpostListJson:136 : json parse error,and url ishttp://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA
+[INFO ] 2017-07-25 15:07:45,847 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2017-07-25 15:07:45,851 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2017-07-25 15:07:45,851 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2017-07-25 15:07:45,867 - TextUtil:362 : url:http://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA use chaset utf8
+[ERROR] 2017-07-25 15:07:45,867 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[WARN ] 2017-07-25 15:07:46,032 - NtmtpostListJson:136 : json parse error,and url ishttp://www.tmtpost.com/ajax/common/get?url=%2Fv1%2Fposts%2Fmultiple_group_search&data=subtype%3Dpost%26limit%3D10%26offset%3D0%26keyword%3D%E5%8D%8E%E4%B8%BA

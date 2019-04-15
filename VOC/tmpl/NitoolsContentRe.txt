@@ -1,0 +1,18 @@
+<tmpl path="">
+<node path="div@@wrap clearfix@1/div@@w710 fl@2">
+<block name="cate" path="div@@breadcrumb@0/div@@details_tit fl@0/a@@@*">
+<fld name="cate" path="" multi="" ext=""/>
+</block>
+<node path="div@@news_details@1">
+<block name="content" path="div@@news_details_box@0">
+<fld name="content" path="" multi="" ext=""/>
+</block>
+<node path="div@@news_details_box@0">
+<fld name="title" path="h2@@@0" multi="" ext=""/>
+<fld name="post_time" path="p@@news_details_time@0/span@@mr20@0" multi="" ext=""/>
+
+</node>
+<fld name="author" path="div@@news_details_share@1/p@@fr@1" multi="" ext=""/>
+</node>
+</node>
+</tmpl>

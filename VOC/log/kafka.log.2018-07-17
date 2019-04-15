@@ -1,0 +1,68 @@
+[INFO ] 2018-07-17 14:53:15,198 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-17 14:53:15,225 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-17 14:53:15,225 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-17 14:53:15,265 - TextUtil:362 : url:http://dynamic.zol.com.cn/channel/doc_view_2014.php?doc_id=6935476&callback=jQuery18304999241252704476 use chaset gbk
+[ERROR] 2018-07-17 14:53:15,265 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[ERROR] 2018-07-17 14:53:16,874 - NzolContentJson:67 : excuteParse error
+[INFO ] 2018-07-17 14:53:48,889 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-17 14:53:48,894 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-17 14:53:48,894 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-17 14:53:56,720 - TextUtil:362 : url:http://dynamic.zol.com.cn/channel/doc_view_2014.php?doc_id=6935476&callback=jQuery18304999241252704476 use chaset gbk
+[ERROR] 2018-07-17 14:53:56,724 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk
+[INFO ] 2018-07-17 15:53:54,844 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-17 15:53:54,847 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-17 15:53:54,847 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-17 15:53:56,167 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-07-17 15:53:56,168 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-17 15:53:56,169 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-17 15:53:56,169 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-17 15:53:56,169 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-17 15:53:56,170 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:53:56,170 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:53:56,171 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:53:56,171 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:53:56,171 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-07-17 15:53:56,172 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-17 15:53:56,865 - DomSearch:948 : null Missing field: author rp:["div@@article-header editor-hasPic clearfix@0","div@@article-aboute@0","div@article-content@@3","div@@article-cont clearfix@0"]
+[INFO ] 2018-07-17 15:53:56,976 - DomSearch:948 : null Missing field: author rp:["div@@article-header clearfix@0","div@@article-aboute@0","span@author_baidu@@2","div@@editor@0","a@@@0"]
+[INFO ] 2018-07-17 15:53:56,980 - DomSearch:948 : null Missing field: post_time rp:["div@@article-header editor-hasPic clearfix@0","div@@article-aboute@0","span@pubtime_baidu@@0"]
+[INFO ] 2018-07-17 15:53:56,982 - DomSearch:948 : null Missing field: title rp:["div@@article-header editor-hasPic clearfix@0","h1@@@0"]
+[INFO ] 2018-07-17 15:53:56,985 - DomSearch:948 : null Missing field: title rp:["div@@article-header editor-hasPic clearfix@0","div@@root_h1@0"]
+[INFO ] 2018-07-17 15:53:57,002 - DomSearch:948 : null Missing field: title rp:["div@@article-header  clearfix@0","div@@root_h1@0"]
+[INFO ] 2018-07-17 15:53:57,327 - ParseUtils:46 : url:http://mobile.zol.com.cn/693/6936609.html tasks size 1
+[INFO ] 2018-07-17 15:53:57,382 - ConfigUtils:136 : key=TestMode, will use defaultValue=false
+[INFO ] 2018-07-17 15:53:57,383 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\crawl-config.properties
+[INFO ] 2018-07-17 15:53:57,383 - ConfigUtils:136 : key=Distribute.status, will use defaultValue=true
+[INFO ] 2018-07-17 15:53:57,434 - AbstractClient:94 : locator:bfdcloud/Locator:tcp -h 172.19.1.151 -p 47893
+[INFO ] 2018-07-17 15:53:57,434 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-17 15:53:57,436 - ConfigUtils:110 : key=Ice.Override.Timeout, will use defaultValue=20000
+[INFO ] 2018-07-17 15:53:57,437 - AbstractClient:104 : Ice.Override.Timeout:20000
+[INFO ] 2018-07-17 15:53:57,516 - ConfigUtils:110 : key=crawl.public.ice.service.configure, will use defaultValue=BizConfigurerService
+[INFO ] 2018-07-17 15:55:01,466 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-17 15:55:01,468 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-17 15:55:01,468 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-17 15:55:01,556 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-07-17 15:55:01,557 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-17 15:55:01,557 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-17 15:55:01,557 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-17 15:55:01,557 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-17 15:55:01,558 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:55:01,558 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:55:01,558 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:55:01,558 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:55:01,558 - DomCFGField:106 : createTask:1 name :nextpage
+[INFO ] 2018-07-17 15:55:01,559 - DomCFGField:106 : createTask: name :content
+[INFO ] 2018-07-17 15:55:02,113 - DomSearch:948 : null Missing field: author rp:["div@@article-header editor-hasPic clearfix@0","div@@article-aboute@0","div@article-content@@3","div@@article-cont clearfix@0"]
+[INFO ] 2018-07-17 15:55:02,175 - DomSearch:948 : null Missing field: author rp:["div@@article-header clearfix@0","div@@article-aboute@0","span@author_baidu@@2","div@@editor@0","a@@@0"]
+[INFO ] 2018-07-17 15:55:02,178 - DomSearch:948 : null Missing field: post_time rp:["div@@article-header editor-hasPic clearfix@0","div@@article-aboute@0","span@pubtime_baidu@@0"]
+[INFO ] 2018-07-17 15:55:02,181 - DomSearch:948 : null Missing field: title rp:["div@@article-header editor-hasPic clearfix@0","h1@@@0"]
+[INFO ] 2018-07-17 15:55:02,185 - DomSearch:948 : null Missing field: title rp:["div@@article-header editor-hasPic clearfix@0","div@@root_h1@0"]
+[INFO ] 2018-07-17 15:55:02,202 - DomSearch:948 : null Missing field: title rp:["div@@article-header  clearfix@0","div@@root_h1@0"]
+[INFO ] 2018-07-17 15:58:07,975 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-17 15:58:07,978 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-17 15:58:07,978 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-17 15:58:08,094 - DomCFGField:106 : createTask: name :cate
+[INFO ] 2018-07-17 15:58:08,094 - DomCFGField:106 : createTask: name :title
+[INFO ] 2018-07-17 15:58:08,095 - DomCFGField:106 : createTask: name :post_time
+[INFO ] 2018-07-17 15:58:08,095 - DomCFGField:106 : createTask: name :author
+[INFO ] 2018-07-17 15:58:08,095 - DomCFGField:106 : createTask: name :content

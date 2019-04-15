@@ -1,0 +1,22 @@
+[INFO ] 2019-01-18 15:22:59,809 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-01-18 15:22:59,998 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-01-18 15:22:59,999 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-01-18 15:23:02,123 - DomCFGField:106 : createTask: name :pagecount
+[INFO ] 2019-01-18 15:23:02,179 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2019-01-18 15:23:02,180 - DomCFGField:106 : createTask:0 name :itemlink
+[INFO ] 2019-01-18 15:23:02,180 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2019-01-18 15:27:06,792 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-01-18 15:27:06,797 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-01-18 15:27:06,798 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-01-18 15:27:06,919 - DomCFGField:106 : createTask: name :content
+[INFO ] 2019-01-18 15:27:06,920 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-01-18 15:27:17,147 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-01-18 15:27:17,150 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-01-18 15:27:17,150 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-01-18 15:27:17,283 - DomCFGField:106 : createTask: name :content
+[INFO ] 2019-01-18 15:27:17,283 - DomCFGField:106 : createTask: name :title
+[INFO ] 2019-01-18 15:28:13,381 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2019-01-18 15:28:13,385 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2019-01-18 15:28:13,386 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2019-01-18 15:28:13,511 - DomCFGField:106 : createTask: name :content
+[INFO ] 2019-01-18 15:28:13,511 - DomCFGField:106 : createTask: name :title

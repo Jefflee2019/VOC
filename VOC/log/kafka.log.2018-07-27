@@ -1,0 +1,56 @@
+[INFO ] 2018-07-27 17:39:39,662 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:39:39,665 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:39:39,666 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:39:39,675 - TextUtil:362 : url:https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:39:39,675 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:42:40,801 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:42:40,805 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:42:40,805 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:42:40,818 - TextUtil:362 : url:https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=80 use chaset utf8
+[ERROR] 2018-07-27 17:42:40,819 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:45:34,481 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:45:34,484 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:45:34,484 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:45:34,495 - TextUtil:362 : url:https://www.zhihu.com/api/v4/columns/xingzhe/articles?include=topics&limit=10&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:45:34,496 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:48:24,184 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:48:24,188 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:48:24,188 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:48:24,199 - TextUtil:362 : url:https://www.zhihu.com/api/v4/columns/xingzhe/articles?include=topics&limit=10&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:48:24,200 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:49:05,840 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:49:05,844 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:49:05,845 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:49:05,862 - TextUtil:362 : url:https://www.zhihu.com/api/v4/columns/xingzhe/articles?include=topics&limit=10&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:49:05,862 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:54:55,783 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:54:55,786 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:54:55,786 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:54:55,799 - TextUtil:362 : url:https://www.zhihu.com/api/v4/columns/xingzhe/articles?include=topics&limit=10&offset=40 use chaset utf8
+[ERROR] 2018-07-27 17:54:55,800 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:55:41,923 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:55:41,925 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:55:41,925 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:55:41,935 - TextUtil:362 : url:https://www.zhihu.com/api/v4/columns/xingzhe/articles?include=topics&limit=10&offset=50 use chaset utf8
+[ERROR] 2018-07-27 17:55:41,935 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 17:56:34,726 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:56:34,730 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:56:34,730 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:56:34,745 - TextUtil:362 : url:https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:56:34,745 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[ERROR] 2018-07-27 17:56:34,943 - NzhihuzhuanlanListJson:129 : executeParse error https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0
+[INFO ] 2018-07-27 17:57:02,110 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 17:57:02,112 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 17:57:02,113 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 17:57:02,123 - TextUtil:362 : url:https://www.zhihu.com/api/v4/articles/38628783/comments?include=data%5B*%5D.author%2Ccontent%2Cvoting%2Cvote_count&order=reverse&limit=20&offset=0 use chaset utf8
+[ERROR] 2018-07-27 17:57:02,123 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 18:03:54,170 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 18:03:54,172 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 18:03:54,172 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 18:03:54,195 - TextUtil:362 : url:https://www.zhihu.com/r/search?q=%E5%8D%8E%E4%B8%BA&type=content&offset=10 use chaset utf8
+[ERROR] 2018-07-27 18:03:54,195 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8
+[INFO ] 2018-07-27 18:06:34,599 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-07-27 18:06:34,602 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-07-27 18:06:34,602 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-07-27 18:06:34,613 - TextUtil:362 : url:https://www.zhihu.com/api/v4/questions/280480075/answers?include=content%2Ccomment_count%2Ccreated_time%2Cvoteup_count&offset=0&limit=20&sort_by=created use chaset utf8
+[ERROR] 2018-07-27 18:06:34,613 - TextUtil:368 : UnsupportedEncodingException2 charset is utf8

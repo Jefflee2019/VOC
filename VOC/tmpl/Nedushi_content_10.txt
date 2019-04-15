@@ -1,0 +1,14 @@
+<tmpl path="">
+<node path="div@@wrapper pb60@2">
+<node path="div@@clearfix@2/div@@fl main-body@0">
+<fld name="content" path="div@@main-text-cnt@1/div@@main-text@1" multi="" ext=""/>
+<fld name="post_time" path="div@@time-source clearfix@0/div@@fl@0" multi="" ext=""/>
+<fld name="source" path="div@@time-source clearfix@0/div@@fl@0" multi="" ext=""/>
+<fld name="author" path="div@@time-source clearfix@0/div@@fl@0" multi="" ext=""/>
+<fld name="title" path="h1@@@0" multi="" ext=""/>
+</node>
+<block name="cate" path="div@@urhere@1/a@@@*">
+<fld name="cate" path="" multi="" ext=""/>
+</block>
+</node>
+</tmpl>

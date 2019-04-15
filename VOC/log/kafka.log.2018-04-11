@@ -1,0 +1,8 @@
+[INFO ] 2018-04-11 17:53:01,621 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
+[INFO ] 2018-04-11 17:53:01,631 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
+[INFO ] 2018-04-11 17:53:01,631 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
+[INFO ] 2018-04-11 17:53:01,982 - DomCFGField:106 : createTask: name :itemimg
+[INFO ] 2018-04-11 17:53:01,994 - DomCFGField:106 : createTask:1 name :itemlink
+[INFO ] 2018-04-11 17:53:01,995 - DomCFGField:106 : createTask: name :itemname
+[INFO ] 2018-04-11 17:53:01,995 - DomCFGField:106 : createTask: name :itemprice
+[INFO ] 2018-04-11 17:53:02,565 - DomSearch:948 : null Missing field: itemimg rp:["div@@check-error@1"]
