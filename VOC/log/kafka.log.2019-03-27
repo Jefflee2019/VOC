@@ -1,5 +1,0 @@
-[INFO ] 2019-03-27 11:04:01,714 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\VOC&WalM\..\etc
-[INFO ] 2019-03-27 11:04:01,719 - ConfigUtils:83 : read properties file, filename=F:\workspace2\VOC&WalM\..\etc\parse-config.properties
-[INFO ] 2019-03-27 11:04:01,720 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2019-03-27 11:04:01,731 - TextUtil:362 : url:http://www.elecfans.com/webapi/arcinfo/apiGetCommentJson?page=1&order=new&aid=705348 use chaset gbk
-[ERROR] 2019-03-27 11:04:01,731 - TextUtil:368 : UnsupportedEncodingException2 charset is gbk

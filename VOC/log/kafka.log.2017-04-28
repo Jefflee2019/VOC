@@ -1,8 +1,0 @@
-[INFO ] 2017-04-28 09:51:59,806 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2017-04-28 09:51:59,811 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2017-04-28 09:51:59,812 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2017-04-28 09:51:59,892 - DomCFGField:106 : createTask:1 name :itemlink
-[INFO ] 2017-04-28 09:51:59,893 - DomCFGField:106 : createTask: name :itemname
-[INFO ] 2017-04-28 09:51:59,893 - DomCFGField:106 : createTask: name :brand_name
-[ERROR] 2017-04-28 09:52:00,753 - DomSearch:1312 : null Miss Match - 00 at level 1, nodePattern:[div@@J_selectorLine s-brand@1]
-[INFO ] 2017-04-28 09:52:00,783 - DomSearch:657 : null Missing field: brand_name

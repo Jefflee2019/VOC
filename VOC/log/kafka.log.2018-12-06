@@ -1,7 +1,0 @@
-[INFO ] 2018-12-06 17:48:07,583 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2018-12-06 17:48:07,590 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2018-12-06 17:48:07,591 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2018-12-06 17:48:08,087 - DomCFGField:106 : createTask:1 name :nextpage
-[INFO ] 2018-12-06 17:48:08,088 - DomCFGField:106 : createTask: name :itemprice
-[INFO ] 2018-12-06 17:48:08,089 - DomCFGField:106 : createTask:1 name :itemlink
-[INFO ] 2018-12-06 17:48:08,089 - DomCFGField:106 : createTask: name :itemname

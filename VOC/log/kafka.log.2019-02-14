@@ -1,9 +1,0 @@
-[INFO ] 2019-02-14 10:53:06,784 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2019-02-14 10:53:06,807 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2019-02-14 10:53:06,808 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2019-02-14 10:57:32,692 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2019-02-14 10:57:32,696 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2019-02-14 10:57:32,697 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2019-02-14 18:07:15,958 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2019-02-14 18:07:15,963 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2019-02-14 18:07:15,963 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true

@@ -1,3 +1,0 @@
-[INFO ] 2018-06-25 18:09:07,631 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2018-06-25 18:09:07,636 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2018-06-25 18:09:07,636 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true

@@ -1,4 +1,0 @@
-[ERROR] 2018-08-01 15:49:46,835 - HttpClientToGetOrPost:160 : 请求返回:403(https://home.mi.com/app/shopv3/pipe?editor-cache=425862)
-[ERROR] 2018-08-01 15:50:36,960 - HttpClientToGetOrPost:161 : 请求返回:403(https://home.mi.com/app/shopv3/pipe?editor-cache=425862)
-[ERROR] 2018-08-01 15:51:34,823 - HttpClientToGetOrPost:161 : 请求返回:403(https://home.mi.com/app/shopv3/pipe?editor-cache=425862)
-[ERROR] 2018-08-01 15:57:47,851 - HttpClientToGetOrPost:162 : 请求返回:403(https://home.mi.com/app/shopv3/pipe?editor-cache=425862)

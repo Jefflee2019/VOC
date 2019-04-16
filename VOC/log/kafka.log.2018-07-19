@@ -1,9 +1,0 @@
-[INFO ] 2018-07-19 09:13:00,875 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2018-07-19 09:13:00,880 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2018-07-19 09:13:00,880 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2018-07-19 09:13:00,986 - DomCFGField:106 : createTask: name :cate
-[INFO ] 2018-07-19 09:13:00,987 - DomCFGField:106 : createTask: name :content
-[INFO ] 2018-07-19 09:13:00,987 - DomCFGField:106 : createTask: name :author
-[INFO ] 2018-07-19 09:13:00,988 - DomCFGField:106 : createTask: name :post_time
-[INFO ] 2018-07-19 09:13:00,988 - DomCFGField:106 : createTask: name :source
-[INFO ] 2018-07-19 09:13:00,989 - DomCFGField:106 : createTask: name :title

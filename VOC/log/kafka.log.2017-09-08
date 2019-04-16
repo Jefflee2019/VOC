@@ -1,8 +1,0 @@
-[INFO ] 2017-09-08 10:02:53,291 - ConfigUtils:61 : check dir to find config file, dir=F:\workspace2\plugintest\..\etc
-[INFO ] 2017-09-08 10:02:53,311 - ConfigUtils:83 : read properties file, filename=F:\workspace2\plugintest\..\etc\parse-config.properties
-[INFO ] 2017-09-08 10:02:53,311 - ConfigUtils:136 : key=SaveSource, will use defaultValue=true
-[INFO ] 2017-09-08 10:02:54,328 - DomCFGField:106 : createTask:1 name :itemlink
-[INFO ] 2017-09-08 10:02:54,328 - DomCFGField:106 : createTask: name :itemname
-[INFO ] 2017-09-08 10:02:54,351 - DomCFGField:106 : createTask: name :itemprice
-[INFO ] 2017-09-08 10:02:54,351 - DomCFGField:106 : createTask: name :pageno
-[INFO ] 2017-09-08 10:02:54,351 - DomCFGField:106 : createTask: name :pagecount
