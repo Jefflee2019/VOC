@@ -57,7 +57,6 @@ public class EgomecontentJson implements JsonParser {
 	@SuppressWarnings("unchecked")
 	public void executeParse(Map<String, Object> parsedata, String json, String url, ParseUnit unit) {
 		// {"price":"139.00","proms":[{"site_enable":"0","type":"LYMANFAN","iconText":"返券","desc":"满500元，送1张10元店铺券；满1,000元，送1张20元店铺券；满2,000元，送1张30元店铺券","titleList":[]}]}
-		System.out.println(json);
 		try {
 			Map<String, Object> map = (HashMap<String, Object>) JsonUtils.parseObject(json);
 			String price = (String) map.get("price");

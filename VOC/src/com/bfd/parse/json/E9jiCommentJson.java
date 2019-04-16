@@ -29,7 +29,6 @@ public class E9jiCommentJson implements JsonParser {
 			ParseUnit unit) {
 		int parsecode = 0;
 		Map<String, Object> parsedata = new HashMap<String, Object>();
-		System.out.println("in area **********************");
 		/**
 		 * JsonData为List的原因为jsEngine有时会请求好几个链接
 		 */
@@ -96,7 +95,6 @@ public class E9jiCommentJson implements JsonParser {
 			// 添加下一页
 			if (comments.size() >= 8)
 				addCommentNextUrl(parsedata, unit);
-			System.out.println(parsedata.toString());
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

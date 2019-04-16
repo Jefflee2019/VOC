@@ -54,7 +54,6 @@ public class NxinhuanetCommentJson implements JsonParser {
 //				if(json.contains("/*") || json.contains("*/"))
 //					json = json.replaceAll("\\*\\/", "").replaceAll("\\/\\*", "");
 //				int index = json.lastIndexOf("],");
-//				System.out.println(">>>>>" + index);
 //				json = json.substring(0,index - 6);
 				LOG.info("url:"+data.getUrl()+".correct json is "+json);
 				
@@ -147,6 +146,5 @@ public class NxinhuanetCommentJson implements JsonParser {
 		}
 	}
 //	public static void main(String[] args) {
-////		System.out.println(ConstantFunc.normalTime("1444788053"));
 //	}
 }

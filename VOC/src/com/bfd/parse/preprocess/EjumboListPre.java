@@ -53,7 +53,6 @@ public class EjumboListPre implements PreProcessor {
 		}
 		// 更新页面的修改操作
 		pageData = doc.html();
-		System.out.println(pageData);
 		return pageData;
 	}
 }

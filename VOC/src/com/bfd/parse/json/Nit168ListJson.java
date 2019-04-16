@@ -38,7 +38,6 @@ public class Nit168ListJson implements JsonParser{
 				continue;
 			}
 			String json = TextUtil.getUnzipJson(jsonData, unit);
-			System.out.println(json);
 			executeParse(parseData, json, unit.getUrl());
 			try {
 				if (json.indexOf("[") >= 0 && json.indexOf("]") >= 0
@@ -71,10 +70,8 @@ public class Nit168ListJson implements JsonParser{
 	private void executeParse(Map<String, Object> parseData, String json, String url) {
 		List<Map<String, Object>> tasks = new ArrayList<Map<String, Object>>();
 		List<Map<String, Object>> items = new ArrayList<Map<String, Object>>();
-		System.out.println(json);
 		Matcher itemM = ITEM.matcher(json);
 		while(itemM.find()){
-			System.out.println("------------------------------");
 			String item = itemM.group(0);
 			Matcher linkM = LINK.matcher(item);
 			String link = null;

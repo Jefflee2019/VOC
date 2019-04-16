@@ -87,7 +87,6 @@ public class Etianmao_hwContentJson implements JsonParser {
 			}
 			// 月销量
 			if (url.contains("mdskip.taobao.com")) {
-//				System.out.print("tianmaourl" + url);
 //				LOG.info("URL :" + url);
 				getSellCount(json,parsedata);
 			}

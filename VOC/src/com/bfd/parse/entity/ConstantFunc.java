@@ -402,8 +402,6 @@ public class ConstantFunc {
 					buf.append("0");
 				buf.append(Integer.toHexString(i));
 			}
-//			System.out.println("32位: " + buf.toString());// 32位的加密
-			// System.out.println("16位: " + buf.toString().substring(8, 24));//
 			// 16位的加密，其实就是32位加密后的截取
 			return buf.toString();
 		} catch (Exception e) {

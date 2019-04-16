@@ -59,7 +59,6 @@ public class Nali213ContentJson implements JsonParser {
 		}
 		
 		
-//		System.out.println(parsedata.toString());
 
 	}
 	

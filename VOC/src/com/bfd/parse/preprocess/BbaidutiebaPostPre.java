@@ -77,7 +77,6 @@ public class BbaidutiebaPostPre implements PreProcessor {
 						String date = "";
 						String reply_floor = "";//楼层post_index
 						if(contents.containsKey("post_no")){
-							System.out.println(contents.get("post_no"));
 							reply_floor = contents.get("post_no").toString();
 						}
 						if(contents.containsKey("date")){

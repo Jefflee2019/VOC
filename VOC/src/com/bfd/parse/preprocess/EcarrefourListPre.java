@@ -25,7 +25,6 @@ public class EcarrefourListPre implements PreProcessor {
 	@Override
 	public boolean process(ParseUnit unit, ParserFace parseFace) {
 		String pageData = unit.getPageData();
-		// System.out.println(pageData);
 		pageData = parsePageData(pageData);
 		unit.setPageData(pageData);
 		try {

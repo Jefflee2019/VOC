@@ -25,7 +25,6 @@ public class Eliverpool_mexicoListPre implements PreProcessor {
 	@Override
 	public boolean process(ParseUnit unit, ParserFace parseFace) {
 		String pageData = unit.getPageData();
-		// System.out.println(pageData);
 		pageData = parsePageData(pageData);
 		unit.setPageData(pageData);
 		try {
@@ -43,7 +42,6 @@ public class Eliverpool_mexicoListPre implements PreProcessor {
 		 * 处理价格前缀描述和产品名称
 		 * 
 		 */
-		System.out.println(pageData);
 		if (pageData.contains("Precio Lista:")) {
 			pageData = pageData.replaceAll("Precio Lista:\\s*", "");
 		}

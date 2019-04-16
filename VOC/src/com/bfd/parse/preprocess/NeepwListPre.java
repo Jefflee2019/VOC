@@ -42,7 +42,6 @@ public class NeepwListPre implements PreProcessor {
 	 */
 	public String parsePageData(String pageData){
 		pageData = pageData.replace("<p><font>", "<p>");
-		System.out.println(pageData);
 		return pageData;
 	}
 	

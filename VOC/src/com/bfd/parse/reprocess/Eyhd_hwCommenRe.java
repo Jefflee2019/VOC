@@ -33,7 +33,6 @@ public class Eyhd_hwCommenRe implements ReProcessor{
 	public ReProcessResult process(ParseUnit unit, ParseResult result, ParserFace parseFace) {
 		
 		String htmlcontent = gethtml(unit.getUrl());
-		System.out.println(htmlcontent);
 		Map<String,Object> parsedata = new HashMap<String, Object>(16);
 		Map<String, Object> resultData = new HashMap<String, Object>();
 		resultData = result.getParsedata().getData();

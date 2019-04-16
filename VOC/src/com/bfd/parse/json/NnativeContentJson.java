@@ -72,7 +72,6 @@ public class NnativeContentJson implements JsonParser {
 					e);
 		}
 		
-//		System.out.println(parsedata.toString());
 
 	}
 

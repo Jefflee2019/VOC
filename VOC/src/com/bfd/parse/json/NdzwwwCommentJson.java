@@ -65,7 +65,6 @@ public class NdzwwwCommentJson implements JsonParser {
 			Map<String, Object> result = (Map<String, Object>) JsonUtil
 					.parseObject(json);
 			
-			System.out.println(json);
 			
 			
 			Map<String, Object> listData = null;
@@ -125,7 +124,6 @@ public class NdzwwwCommentJson implements JsonParser {
 				parsedata.put(Constants.NEXTPAGE, task);
 			}
 
-			// System.out.println(parsedata.toString());
 		} catch (Exception e) {
 			LOG.error(
 					"json format conversion error in the executeParse() method",

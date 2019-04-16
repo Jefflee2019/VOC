@@ -59,7 +59,6 @@ public class NgywbContentJson implements JsonParser {
 			parsedata.put("view_cnt", matcher.group(1));
 		}
 		
-//		System.out.println(parsedata.toString());
 
 	}
 

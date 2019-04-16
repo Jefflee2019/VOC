@@ -67,7 +67,6 @@ public class NyidianzixunContentJson implements JsonParser {
 					e);
 		}
 		
-//		System.out.println(parsedata.toString());
 
 	}
 

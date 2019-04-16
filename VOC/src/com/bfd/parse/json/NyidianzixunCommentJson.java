@@ -105,7 +105,6 @@ public class NyidianzixunCommentJson implements JsonParser {
 			LOG.error("json format conversion error in the executeParse() method", e);
 		}
 
-		// System.out.println(parsedata.toString());
 
 	}
 

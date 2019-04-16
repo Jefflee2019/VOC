@@ -91,7 +91,6 @@ public class NyoukuContentJson implements JsonParser {
 					parsedata.put(Constants.PLAY_CNT, result.get("vv"));
 				}
 			}
-//			System.out.println(parsedata);
 		} catch (Exception e) {
 			LOG.error(
 					"json format conversion error in the executeParse() method",

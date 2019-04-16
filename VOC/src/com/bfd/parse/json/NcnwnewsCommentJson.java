@@ -123,7 +123,6 @@ public class NcnwnewsCommentJson implements JsonParser {
 				parsedata.put(Constants.NEXTPAGE, task);
 			}
 
-			// System.out.println(parsedata.toString());
 		} catch (Exception e) {
 			LOG.error(
 					"json format conversion error in the executeParse() method",

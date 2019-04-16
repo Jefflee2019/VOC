@@ -43,11 +43,9 @@ public class NmopContentRe implements ReProcessor {
 		while(urlIdM.find()){
 			urlId = urlIdM.group(0);
 			urlId = urlId.substring(urlId.length()-9,urlId.length());
-			System.out.println(urlId);
 		}
 		if(resultData.containsKey(Constants.POST_TIME)){
 			String posttime = (String) resultData.get(Constants.POST_TIME);
-			System.out.println(posttime);
 			SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			try {
 				Date date = sdf.parse(posttime);

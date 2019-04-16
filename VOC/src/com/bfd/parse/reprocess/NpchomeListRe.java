@@ -78,7 +78,6 @@ public class NpchomeListRe implements ReProcessor{
 		nextpageTask.put("linktype", "newslist");//任务为列表页
 		LOG.info("url:" + unit.getUrl() + "taskdata is " + nextpageTask.get("link") + nextpageTask.get("rawlink") + nextpageTask.get("linktype"));
 		if (resultData != null && !resultData.isEmpty()) {
-			System.out.println(nextpage);
 			resultData.put("nextpage", nextpage);
 			List<Map<String, Object>> tasks = (List<Map<String, Object>>) resultData.get("tasks");
 			if(tasks == null){

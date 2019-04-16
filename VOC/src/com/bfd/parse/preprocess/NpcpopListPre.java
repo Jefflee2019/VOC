@@ -28,9 +28,7 @@ public class NpcpopListPre implements PreProcessor {
 				Matcher matcherreplynpageA = PATTERNNEXTPAGEA.matcher(attrs);//下一页a
 				if(matcherreplynpageA.find()){
 					String nextpage = matcherreplynpageA.group(0);
-//					System.out.println(nextpage);
 					String posttab = "<div class=\"nextpage_new\">"+nextpage+"</div>";
-//					System.out.println(posttab);
 					pageData = pageData.replace(nextpage, posttab);
 				}
 			} catch (Exception e) {

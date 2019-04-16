@@ -56,7 +56,6 @@ public class NpcpopCommentJson implements JsonParser {
 //				if(json.contains("/*") || json.contains("*/"))
 //					json = json.replaceAll("\\*\\/", "").replaceAll("\\/\\*", "");
 //				int index = json.lastIndexOf("],");
-//				System.out.println(">>>>>" + index);
 //				json = json.substring(0,index - 6);
 //				LOG.info("url:"+data.getUrl()+".correct json is "+json);
 				

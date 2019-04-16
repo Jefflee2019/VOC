@@ -86,7 +86,6 @@ public class NsinablogContentJson implements JsonParser {
 			}
 		}
 	
-//		System.out.println(parsedata.toString());
 	}
 	
 	public Matcher matchUserPointUid(String regular, String matchedStr) {

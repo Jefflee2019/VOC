@@ -88,7 +88,6 @@ public class Nit168CommentJson_bak implements JsonParser{
 
 		if (obj instanceof Map) {
 			Map<String, Object> map = (Map<String, Object>) obj;
-			System.out.println(map);
 			// 回复信息
 			if (map.containsKey("parentPosts")) {
 				Map<String, Object> myObj = (Map<String, Object>) map.get("parentPosts");

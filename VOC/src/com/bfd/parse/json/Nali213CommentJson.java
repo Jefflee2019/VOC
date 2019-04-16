@@ -165,7 +165,6 @@ public class Nali213CommentJson implements JsonParser {
 				}
 			}
 			parsedata.put("comments", comments);
-//			System.out.println(parsedata.toString());
 		} catch (Exception e) {
 			LOG.error(
 					"json format conversion error in the executeParse() method",
@@ -199,7 +198,6 @@ public class Nali213CommentJson implements JsonParser {
 	 * nextCommentUrl); task.put("linktype", "newscomment"); tasks.add(task);
 	 * parsedata.put(Constants.NEXTPAGE, task); }
 	 * 
-	 * System.out.println(parsedata.toString());
 	 */
 
 	public int matchPageNum(String regular, String matchedStr) {

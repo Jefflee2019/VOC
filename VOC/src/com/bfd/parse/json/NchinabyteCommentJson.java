@@ -112,7 +112,6 @@ public class NchinabyteCommentJson implements JsonParser {
 					parsedata.put(Constants.NEXTPAGE, rtask);
 				}
 				
-//				System.out.println(parsedata.toString());
 				
 			}
 		} catch (Exception e) {

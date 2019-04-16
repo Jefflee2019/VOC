@@ -93,7 +93,6 @@ public class NeastmoneyCommentJson implements JsonParser {
 				parsedata.put(Constants.NEXTPAGE, task);
 			}
 
-//			 System.out.println(parsedata.toString());
 			
 		} catch (Exception e) {
 			LOG.error(

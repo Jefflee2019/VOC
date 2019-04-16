@@ -49,7 +49,6 @@ public class Bit168ListPre implements PreProcessor {
 			sb.append("</div>");
 			return matcher.replaceFirst(sb.toString());
 		}
-//		System.out.println(pageData);
 		return pageData;
 	}
 	

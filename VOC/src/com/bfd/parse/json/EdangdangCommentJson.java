@@ -176,9 +176,7 @@ public class EdangdangCommentJson implements JsonParser {
 				map.put(Constants.COMMENT_TIME, comment_time);
 				map.put(Constants.COMMENTER_NAME, commenter_name);
 				map.put(Constants.COMMENTER_LEVEL, commenter_level);
-//				System.out.println(map.toString());
 				comments.add(map);
-//				System.err.println(comments.toString());
 			}
 			parsedata.put(Constants.COMMENTS, comments);
 		} catch (XPatherException e) {

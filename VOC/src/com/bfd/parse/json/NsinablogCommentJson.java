@@ -85,7 +85,6 @@ public class NsinablogCommentJson implements JsonParser {
 				addNextUrl(nextUrl, parsedata);
 			}
 
-			// System.out.println(parsedata.toString());
 
 		} catch (Exception e) {
 			LOG.error(

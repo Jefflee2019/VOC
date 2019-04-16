@@ -104,7 +104,6 @@ public class NbilibiliContentJson implements JsonParser{
                 String properties = (String) xpath.evaluate("@p", node, XPathConstants.STRING);  
                 String[] value = properties.split(",");
                 String barrage_posttime = this.TimeStamp2Date(value[4]); //弹幕发表时间
-//                    System.out.println("barrage_posttime="+barrage_posttime+";barrage_content="+barrage_content);
                 barrage.put("barrage_content", barrage_content);
                 barrage.put("barrage_posttime", barrage_posttime);
                 barrages.add(barrage);

@@ -68,7 +68,6 @@ public class NvrsinaListJson implements JsonParser{
 
 	@SuppressWarnings("unchecked")
 	private void executeParse(Map<String, Object> parsedata, String json, ParseUnit unit) {
-		System.out.println(json);
 		List<Map<String, Object>> taskList =null;
 		if(parsedata.get(Constants.TASKS) != null){
 			taskList = (List<Map<String,Object>>) parsedata.get(Constants.TASKS);					

@@ -33,7 +33,6 @@ public class BmydriversPostRe implements ReProcessor {
 		// 解析数据
 		resultData = result.getParsedata().getData();
 		if (resultData == null) {
-			// System.out.println("未获取到解析数据");
 			LOG.info("未获取到解析数据");
 			return null;
 		}

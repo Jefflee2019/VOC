@@ -32,14 +32,12 @@ public class NitoolsListRe implements ReProcessor{
 		String url = unit.getUrl();
 		String nextpage = "/page/2";
 		String link = null;
-		System.out.println(url);
 		Matcher pageM = PATTERN_PAGE.matcher(url);
 		while(pageM.find()){
 			nextpage = pageM.group(0);
 			nextpage = nextpage.replace("/page/", "").trim();
 			nextpage = "/page/" + (Integer.parseInt(nextpage) + 1);
 		}
-		System.out.println(items.size());
 		if(items.size() < 10){
 			nextpage = "/page/1";
 		}

@@ -51,7 +51,6 @@ public class NcctvListPre implements PreProcessor {
 			int index = pageData.indexOf("><span>下一页>></span><");
 			pageData = pageData.substring(0, index) + " class='nextpage'"
 					+ pageData.substring(index);
-//			System.out.println(pageData);
 		}
 		return pageData;
 	}
